@@ -1,0 +1,101 @@
+{
+    "errorColor": {
+        "color": {
+            "value": "ba1a1aff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "errorContainerColor": {
+        "color": {
+            "value": "ffdad6ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primaryColor": {
+        "color": {
+            "value": "00658dff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primaryContainer": {
+        "color": {
+            "value": "29b9fbff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondaryColor": {
+        "color": {
+            "value": "000000ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondaryContainer": {
+        "color": {
+            "value": "262626ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "surfaceColor": {
+        "color": {
+            "value": "fcf8f8ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "surfaceDimColor": {
+        "color": {
+            "value": "ddd9d9ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "surfaceLightColor": {
+        "color": {
+            "value": "fcf8f8ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "tertiaryColor": {
+        "color": {
+            "value": "8f4e00ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "tertiaryContainerColor": {
+        "color": {
+            "value": "f1902fff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    }
+}
