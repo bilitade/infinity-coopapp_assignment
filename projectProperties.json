@@ -51,9 +51,12 @@
     "access_pimdomain_messages": "false",
     "access_shared": "false",
     "access_sms_mms": "false",
+    "addWatchBackgroundListenerToReceiveDataPayload": "false",
+    "addWatchBackgroundListenerToReceiveMessagePayload": "false",
     "allJoyn": "false",
     "allowselfsignedcertificate": "false",
     "andmaxsdkkey": "None",
+    "andminsdkkey": "5.0 (21)",
     "androidInstallLocation": "Auto",
     "androidInstallLocnPref": "false",
     "android_allowselfsignedcertificates": "None",
@@ -68,6 +71,7 @@
     "androidscreenresizeable": "false",
     "androidscreensmall": "true",
     "androidwear_allowselfsignedcertificates": "None",
+    "andtargetsdkkey": "12.0 (31)",
     "andwearapppackagekey": "com.orgname.CoopApp",
     "andwearappversioncode": "1",
     "andwearmaxsdkkey": "None",
@@ -89,6 +93,138 @@
     "applepushfunc": "None",
     "apploadeventkey": "None",
     "applogokey": "",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "b926126d1eea4a7fb1a15d6e0b3dc3ac",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "b39f50e6c4dc4fc5976446016049546d",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "jf8f35aa8f9441dba912b7417f6c2c48",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "b0d1292dd8a64098a89af237c111cf4c",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "j53cd8ddbb1848ddb97ef17e5f23ea02",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "bac0f50ddb664823bae819c607f4cf07",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "j4fb8dba1a2f4ca3bed7fbd8fcddd227",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "h4b719b0fd7b4b409e9afbb50e0dba3a",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "daa0473761cd4d0a9edd8559ca339e4a",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "bbd19acd67154a7a9457bccd7247a94a",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "a346a220203246468a54f0258207ec20",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "d5c9f266da444a7dad918bcf2568f881",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
     "appnamekey": "CoopApp",
     "appointments": "false",
     "apppackagekey": "com.orgname.CoopApp",
@@ -124,9 +260,13 @@
     "category": "app",
     "chat": "false",
     "cloud_account_guid": "0fdd65e5-0862-4960-99a5-f9f384ba4448",
+    "cloud_env_GUID": "0e9ba1ba-520c-49c9-ae36-0d0d61ac9097",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
     "createdVizVersion": "9.7.55",
     "createdgaversion": "9.7.55",
     "currentgaversion": "9.7.55",
@@ -149,6 +289,7 @@
     "enableCordova": false,
     "enableCustomData": false,
     "enableIdForAutomation": false,
+    "enableJasmineAutomation": true,
     "enableMVCExtensions": true,
     "enableOfflineObjects": "false",
     "enableOfflineObjectsDW": "false",
@@ -178,6 +319,7 @@
     "extendTop": "false",
     "fbxfolderpathkey": "",
     "fgcolorkey": "255,255,255",
+    "generateAppBundle": false,
     "generateJavaCodeForForms": "false",
     "genericexceptionalert": "false",
     "gradle_properties_attrs": "",
@@ -227,13 +369,17 @@
     "isA11yConfigEnabled": false,
     "isDpScaleFactor": true,
     "isI18nConfigEnabled": false,
+    "isI18nLayoutConfigEnabled": false,
     "isMVC": true,
     "isNewAppWithRespectToAndroidPackageName": "true",
     "isNewAppWithRespectToAndroidWearPackageName": "true",
+    "isScreenShotDisabledForTestReports": false,
     "keyAlias": "",
     "keyAliasandwear": "",
+    "keyPassword": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "keyStorePassword": "",
     "konyVizVersion": "9.7.55",
     "lastmodifiedtime": "1747213139795",
     "location": "false",
@@ -248,6 +394,7 @@
     "mwportkey": "",
     "objects3D": "false",
     "optimizeAssetLoading": false,
+    "organizationidsso": "",
     "pasteboardtype": "systemlevel",
     "pathkey": "",
     "pathkey_andwear": "",
@@ -516,6 +663,7 @@
     "protectedmodeenabled_android": "false",
     "protectedmodeenabled_androidwear": "false",
     "protectedmodeenabled_ios": "false",
+    "prototype": {},
     "proximity": "false",
     "readOnly": [],
     "read_device_identifying_information": "false",
@@ -546,13 +694,18 @@
     "spawindows480basefontsize": "12",
     "spawindowstabbasefontsize": "17",
     "splashlogokey": "",
-    "startupformkey": "d3439fcd3e1c4b53b476bd40691b3b13",
+    "startupformkey": "hf8efdf2124743feb1db58c33021417a",
     "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
     "support32bit": "false",
     "support64bitandwear": "false",
     "supportX86Devices": "false",
     "supportX86Devicesandwear": "false",
+    "support_arm_32bit": true,
+    "support_arm_64bit": true,
+    "support_x86_32bit": false,
+    "support_x86_64bit": false,
+    "tabletBreakPointInInches": "6",
     "tags": {
         "android": {
             "activity_child_tags": "",

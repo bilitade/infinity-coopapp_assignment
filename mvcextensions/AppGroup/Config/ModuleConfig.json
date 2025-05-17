@@ -1,0 +1,32 @@
+{
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationExtensions": [],
+            "PresentationControllerClass": "AppGroup/PresentationControllers/PresentationController"
+        }
+    },
+    "Forms": {
+        "mobile": {
+            "frmLogin": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "AppGroup/frmLoginController",
+                "FormName": "AppGroup/frmLogin"
+            },
+            "frmDashboard": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "AppGroup/frmDashboardController",
+                "FormName": "AppGroup/frmDashboard"
+            },
+            "frmAppIntro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "AppGroup/frmAppIntroController",
+                "FormName": "AppGroup/frmAppIntro"
+            }
+        }
+    },
+    "ModuleType": "UIModule",
+    "ModuleName": "AppGroup"
+}

@@ -1,86 +1,32 @@
 {
-    "errorColor": {
+    "accent10": {
         "color": {
-            "value": "ba1a1aff"
+            "value": "2e1500ff"
         },
         "colorType": {
             "value": "one"
         },
         "type": "color"
     },
-    "errorContainerColor": {
+    "accent20": {
         "color": {
-            "value": "ffdad6ff"
+            "value": "4c2700ff"
         },
         "colorType": {
             "value": "one"
         },
         "type": "color"
     },
-    "primaryColor": {
+    "accent30": {
         "color": {
-            "value": "00658dff"
+            "value": "6d3a00ff"
         },
         "colorType": {
             "value": "one"
         },
         "type": "color"
     },
-    "primaryContainer": {
-        "color": {
-            "value": "29b9fbff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "secondaryColor": {
-        "color": {
-            "value": "000000ff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "secondaryContainer": {
-        "color": {
-            "value": "262626ff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "surfaceColor": {
-        "color": {
-            "value": "fcf8f8ff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "surfaceDimColor": {
-        "color": {
-            "value": "ddd9d9ff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "surfaceLightColor": {
-        "color": {
-            "value": "fcf8f8ff"
-        },
-        "colorType": {
-            "value": "one"
-        },
-        "type": "color"
-    },
-    "tertiaryColor": {
+    "accent40": {
         "color": {
             "value": "8f4e00ff"
         },
@@ -89,13 +35,626 @@
         },
         "type": "color"
     },
-    "tertiaryContainerColor": {
+    "accent50": {
         "color": {
-            "value": "f1902fff"
+            "value": "b36200ff"
         },
         "colorType": {
             "value": "one"
         },
         "type": "color"
+    },
+    "accent60": {
+        "color": {
+            "value": "d57a17ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "accent70": {
+        "color": {
+            "value": "f59433ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "accent80": {
+        "color": {
+            "value": "ffb77bff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "accent90": {
+        "color": {
+            "value": "ffdcc2ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "accent95": {
+        "color": {
+            "value": "ffede2ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "accent98": {
+        "color": {
+            "value": "fff8f5ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "bodyLarge": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 120
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "bodyMedium": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 110
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "bodySmall": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 100
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "colorAccent": {
+        "color": {
+            "value": "f59433ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "colorError": {
+        "color": {
+            "value": "ff5449ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "colorPrimary": {
+        "color": {
+            "value": "23b6f9ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "colorSecondary": {
+        "color": {
+            "value": "1b1b1bff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "displayLarge": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 312
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "displayMedium": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 275
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "displaySmall": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 250
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "headlineLarge": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 225
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "headlineMedium": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 200
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "headlineSmall": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "RobotoFlex-Regular"
+        },
+        "size": {
+            "value": 180
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "labelLarge": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 130
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "labelMedium": {
+        "color": {
+            "key": "color",
+            "value": "${themes.secondary10}"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 115
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "labelSmall": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 100
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "neutral10": {
+        "color": {
+            "value": "1c1b1bff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "neutral20": {
+        "color": {
+            "value": "313030ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "neutral95": {
+        "color": {
+            "value": "f4f0efff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "neutral98": {
+        "color": {
+            "value": "fcf8f8ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "neutralDark": {
+        "color": {
+            "value": "000000ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "neutralLight": {
+        "color": {
+            "value": "ffffffff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary10": {
+        "color": {
+            "value": "001e2eff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary20": {
+        "color": {
+            "value": "00344bff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary30": {
+        "color": {
+            "value": "004c6cff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary40": {
+        "color": {
+            "value": "00658dff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary50": {
+        "color": {
+            "value": "007fb1ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary60": {
+        "color": {
+            "value": "009ad6ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary70": {
+        "color": {
+            "value": "23b6f9ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary80": {
+        "color": {
+            "value": "83cfffff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary90": {
+        "color": {
+            "value": "c6e7ffff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary95": {
+        "color": {
+            "value": "e4f3ffff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "primary98": {
+        "color": {
+            "value": "f6faffff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary10": {
+        "color": {
+            "value": "1b1b1bff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary20": {
+        "color": {
+            "value": "303030ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary30": {
+        "color": {
+            "value": "474747ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary40": {
+        "color": {
+            "value": "5e5e5eff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary50": {
+        "color": {
+            "value": "777777ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary60": {
+        "color": {
+            "value": "919191ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary70": {
+        "color": {
+            "value": "abababff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary80": {
+        "color": {
+            "value": "c6c6c6ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary90": {
+        "color": {
+            "value": "e2e2e2ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary95": {
+        "color": {
+            "value": "f1f1f1ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "secondary98": {
+        "color": {
+            "value": "f9f9f9ff"
+        },
+        "colorType": {
+            "value": "one"
+        },
+        "type": "color"
+    },
+    "titleLarge": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 160
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "bold"
+        }
+    },
+    "titleMedium": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "Roboto"
+        },
+        "size": {
+            "value": 140
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "titleSmall": {
+        "color": {
+            "value": "000000ff"
+        },
+        "name": {
+            "value": "System"
+        },
+        "size": {
+            "value": 130
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
     }
 }
