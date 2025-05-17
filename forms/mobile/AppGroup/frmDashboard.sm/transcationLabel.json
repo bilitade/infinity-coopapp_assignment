@@ -18,7 +18,7 @@
         0
     ],
     "_skin_": "s6dc6f848a1649228cb8b8a56bbc8393",
-    "_text_": "Chat",
+    "_text_": "Transaction",
     "_top_": {
         "type": "string",
         "value": "5dp"
@@ -41,7 +41,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopyLable0hdcd346c3cdc4a",
+    "id": "transcationLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ffeee04b5599409aa67f2259359a96be",
+    "kuid": "ce33ab57a79c4ed98bcc9a5f480679b5",
     "name": "kony.ui.Label",
-    "parent": "chatContainer",
+    "parent": "transactionContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

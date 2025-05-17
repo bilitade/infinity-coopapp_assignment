@@ -52,7 +52,7 @@
     "kuid": "c36b279f5b0547688ce1480a6d938399",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "CopyitemOne0f8faf738533149",
+    "parent": "chatContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

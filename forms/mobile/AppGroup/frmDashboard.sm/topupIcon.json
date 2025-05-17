@@ -1,6 +1,7 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "_base64_": null,
     "_height_": {
         "type": "string",
         "value": "48dp"
@@ -10,10 +11,10 @@
         "value": "0"
     },
     "_margin_": [
-        6,
-        6,
-        6,
-        6
+        0,
+        0,
+        0,
+        0
     ],
     "_padding_": [
         0,
@@ -21,30 +22,34 @@
         0,
         0
     ],
-    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
-    "_text_": "",
+    "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
+    "_src_": "icontopup.png",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
         "value": "48dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 5,
-    "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
-    "id": "transferButton",
+    "id": "topupIcon",
+    "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ce5cc220fe4540c6b3a079e9b2e4557a",
-    "name": "kony.ui.Button",
-    "parent": "transferBtnContainer",
+    "kuid": "g87a0a54f405427782b576d55ec9ba6e",
+    "name": "kony.ui.Image2",
+    "parent": "topupBtnContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
 }

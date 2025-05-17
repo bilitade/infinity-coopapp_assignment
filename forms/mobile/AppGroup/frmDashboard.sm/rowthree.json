@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "50dp"
+        "value": "60dp"
     },
     "_margin_": [
         0,
@@ -39,18 +39,18 @@
         "value": "50%"
     },
     "children": [
-        "accountContainer",
-        "transferContainer",
-        "topupContainer"
+        "supportContainer",
+        "beneficariesContainer",
+        "chatContainer"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "rowOne",
+    "id": "rowthree",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f6ec2817a403491eaca9611256800892",
+    "kuid": "b5c52445b50e47d6a086351e9a5a44ad",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "menusContainer",

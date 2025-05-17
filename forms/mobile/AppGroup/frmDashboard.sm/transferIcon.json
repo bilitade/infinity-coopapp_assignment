@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "iconaccount.png",
+    "_src_": "icontransfer.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -43,9 +43,9 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ca48a203835a4650a8916d571ff73fb2",
+    "kuid": "g78bbfc48ae0427ba291b4bbcf66b214",
     "name": "kony.ui.Image2",
-    "parent": "btnContainer",
+    "parent": "transferBtnContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

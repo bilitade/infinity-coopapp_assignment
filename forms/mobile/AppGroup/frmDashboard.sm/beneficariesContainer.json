@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "92dp"
+        "value": "80.17%"
     },
     "_left_": {
         "type": "string",
-        "value": "50dp"
+        "value": "9.111200730860414%"
     },
     "_margin_": [
         0,
@@ -29,31 +29,26 @@
     },
     "_width_": {
         "type": "string",
-        "value": "79.92%"
+        "value": "27.26%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "accountContainer",
-        "transferContainer",
-        "topupContainer"
+        "beneficariesBtnContainer",
+        "beneficarieLabel"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "rowOne",
+    "id": "beneficariesContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f6ec2817a403491eaca9611256800892",
-    "layouttype": 3,
+    "kuid": "ef4d86aadf1846adaac8f4d6f4a61103",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "menusContainer",
+    "parent": "rowthree",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

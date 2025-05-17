@@ -18,7 +18,7 @@
         0
     ],
     "_skin_": "s6dc6f848a1649228cb8b8a56bbc8393",
-    "_text_": "Chat",
+    "_text_": "Topup",
     "_top_": {
         "type": "string",
         "value": "5dp"
@@ -41,7 +41,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopyLable0hdcd346c3cdc4a",
+    "id": "topupLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ffeee04b5599409aa67f2259359a96be",
+    "kuid": "d135567037674aa59c7ce492710b4146",
     "name": "kony.ui.Label",
-    "parent": "chatContainer",
+    "parent": "topupContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
