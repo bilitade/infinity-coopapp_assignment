@@ -1,14 +1,12 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
-    "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "220dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -16,7 +14,7 @@
         0,
         0
     ],
-    "_orientation_": 1,
+    "_orientation_": 6,
     "_padding_": [
         0,
         0,
@@ -27,28 +25,35 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "12dp"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
+    "allboxes": [],
     "canUpdateUI": true,
-    "containerweight": 0,
-    "data": {},
-    "id": "AppBar",
+    "children": [
+        "AppBar",
+        "flxContainer"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "dashBoardContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e47ac00ce2894bf5a73838c080003a5d",
-    "masterType": 1,
-    "name": "kony.ui.UserWidgetInstance",
-    "parent": "dashBoardContainer",
+    "kuid": "df7dd501a07140fa9f5bc8ad364a3742",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmDashboard",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "sourceUserWidget": "d61d0b858dd1499aafd3de8eeefc828a",
-    "wType": "UserWidgetInstance",
-    "zindex": 1
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
 }

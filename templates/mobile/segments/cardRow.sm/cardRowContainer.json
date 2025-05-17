@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "250dp"
     },
     "_left_": {
         "type": "string",
@@ -35,26 +35,35 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "accountCardSegement"
+        "cardImage",
+        "cardInfoContainer",
+        "accountType"
     ],
     "clipbounds": false,
+    "containerId": true,
     "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "cardRowContainerController"
+        }
+    },
     "enablescrolling": true,
-    "id": "AccountCard",
+    "id": "cardRowContainer",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ac5e2e1bdace488688e23398d5a58402",
+    "kuid": "f3cca6de620346c98573798d395fb354",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
-    "pf": "userwidgetmodel",
+    "parent": "cardRow",
+    "pf": "cardRow",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

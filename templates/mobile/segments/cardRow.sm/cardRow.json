@@ -1,5 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
     "DNDConfig": null,
     "_margin_": [
         0,
@@ -19,27 +19,17 @@
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
-    "breakpointInfo": {
-        "b1": {
-            "width": 1366
-        },
-        "b2": {
-            "width": 1024
-        },
-        "b3": {
-            "width": 640
-        }
-    },
     "canUpdateUI": true,
     "children": [
-        "AccountCard"
+        "cardRowContainer"
     ],
+    "containerId": true,
     "containerweight": 100,
     "currentLocale": "default",
-    "device": "iPhone13",
+    "device": "Pixel3",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "id": "userwidgetmodel",
+    "id": "cardRow",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -48,16 +38,14 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "u6977bd34c2f4bfe8c746f405f3c37b5",
-    "layouttype": 2,
-    "masterType": 1,
+    "kuid": "bb976d03b9354d999a5dec9c06003c93",
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "outtransitionconfig": {
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "spaan",
     "prevDevice": "iPhone13",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,

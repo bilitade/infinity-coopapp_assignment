@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "47.02%"
     },
     "_left_": {
         "type": "string",
@@ -27,28 +27,32 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "12dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "95%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 0,
     "data": {},
-    "id": "AppBar",
+    "id": "AccountCard",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e47ac00ce2894bf5a73838c080003a5d",
+    "kuid": "ef7e07e9d713411babd5696f37f25541",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "dashBoardContainer",
+    "parent": "flxContainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "sourceUserWidget": "d61d0b858dd1499aafd3de8eeefc828a",
+    "sourceUserWidget": "ac5e2e1bdace488688e23398d5a58402",
     "wType": "UserWidgetInstance",
     "zindex": 1
 }

@@ -1,0 +1,324 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "287dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": 0,
+    "focuseditem": {
+        "accountNumber": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1003100123358"
+        },
+        "accountType": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Saving Account"
+        },
+        "amount": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "12000.00"
+        },
+        "balanceLabel": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Your Balance"
+        },
+        "cardImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "cardorange3x.png"
+        },
+        "currency": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "ETB"
+        },
+        "customerName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Chala Gemeda Benti"
+        }
+    },
+    "groupcells": false,
+    "hasSections": false,
+    "id": "accountCardSegement",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b9a67b7a1f2d463ebf186bd709d64226",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100123358"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Saving Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "12000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Chala Gemeda Benti"
+                }
+            },
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100123358"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Saving Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "12000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Chala Gemeda Benti"
+                }
+            },
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100123358"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Saving Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "12000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Chala Gemeda Benti"
+                }
+            },
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100123358"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Saving Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "12000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Chala Gemeda Benti"
+                }
+            }
+        ],
+        "rowTemplateId": "bb976d03b9354d999a5dec9c06003c93",
+        "rowtemplate": "cardRowContainer",
+        "sectionHeaderTemplateId": null,
+        "selectionBehaviorConfig": null,
+        "widgetdatamap": {
+            "accountNumber": "accountNumber",
+            "accountType": "accountType",
+            "amount": "amount",
+            "balanceCurrency": "balanceCurrency",
+            "balanceLabel": "balanceLabel",
+            "cardImage": "cardImage",
+            "cardInfoContainer": "cardInfoContainer",
+            "cardRowContainer": "cardRowContainer",
+            "currency": "currency",
+            "customerName": "customerName"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "segmentindicatornegative10px2.png",
+    "pageondotimage": "segmentindicatoractive10px2.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "AccountCard",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 3,
+    "rowfocusskin": "s9c679f2c1af4d85bb39f6cf2b14e932",
+    "rowskin": "saea3163ce0240c095c0dab4a40f71f3",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sedb34bf859d4880aec92b4c25e571ba",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": [
+        0,
+        0
+    ],
+    "selectedindices": null,
+    "selecteditems": {
+        "accountNumber": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1003100123358"
+        },
+        "accountType": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Saving Account"
+        },
+        "amount": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "12000.00"
+        },
+        "balanceLabel": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Your Balance"
+        },
+        "cardImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "cardorange3x.png"
+        },
+        "currency": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "ETB"
+        },
+        "customerName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Chala Gemeda Benti"
+        }
+    },
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": null,
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1170,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "accountNumber": "accountNumber",
+        "accountType": "accountType",
+        "amount": "amount",
+        "balanceCurrency": "balanceCurrency",
+        "balanceLabel": "balanceLabel",
+        "cardImage": "cardImage",
+        "cardInfoContainer": "cardInfoContainer",
+        "cardRowContainer": "cardRowContainer",
+        "currency": "currency",
+        "customerName": "customerName"
+    }
+}

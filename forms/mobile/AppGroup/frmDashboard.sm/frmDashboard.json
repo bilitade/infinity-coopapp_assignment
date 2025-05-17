@@ -39,7 +39,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "AppBar"
+        "dashBoardContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {

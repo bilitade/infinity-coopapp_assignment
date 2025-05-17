@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "33dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -25,36 +25,41 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "48.43%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "accountCardSegement"
+        "amount",
+        "currency"
     ],
     "clipbounds": false,
+    "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "AccountCard",
+    "id": "balanceCurrency",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ac5e2e1bdace488688e23398d5a58402",
-    "layouttype": 2,
+    "kuid": "jabbf986018947219428b2dedc3f17fc",
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
-    "pf": "userwidgetmodel",
+    "parent": "cardInfoContainer",
+    "pf": "cardRow",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }
