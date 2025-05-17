@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "6.70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {},
+    "id": "AppBar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e47ac00ce2894bf5a73838c080003a5d",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmDashboard",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "d61d0b858dd1499aafd3de8eeefc828a",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}
