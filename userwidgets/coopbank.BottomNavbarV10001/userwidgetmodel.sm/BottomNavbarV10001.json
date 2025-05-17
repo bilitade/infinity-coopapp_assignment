@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "16.01%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-1dp"
     },
     "_margin_": [
         0,
@@ -34,7 +34,13 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "navHomeContainer",
+        "navPayContainer",
+        "navScanContainer",
+        "navAppsContainer",
+        "navProfileContainer"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
@@ -43,7 +49,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "e7302454468c40219973c66af3cb0357",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "userwidgetmodel",
     "pf": "userwidgetmodel",

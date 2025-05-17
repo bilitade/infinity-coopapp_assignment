@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "4.79%"
     },
     "_left_": {
         "type": "string",
@@ -50,5 +50,5 @@
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "d61d0b858dd1499aafd3de8eeefc828a",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 10
 }

@@ -25,11 +25,11 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
-        "value": "48.43%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -51,7 +51,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "jabbf986018947219428b2dedc3f17fc",
-    "layouttype": 3,
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "cardInfoContainer",
     "pf": "cardRow",

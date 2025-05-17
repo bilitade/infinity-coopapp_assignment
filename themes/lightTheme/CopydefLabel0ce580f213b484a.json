@@ -16,6 +16,10 @@
   "border_type": 0,
   "border_width": 0,
   "constants": {
+    "font_color": {
+      "key": "color",
+      "value": "${themes.neutralLight}"
+    },
     "iphone": {
       "font_color": {
         "key": "color",
@@ -45,7 +49,7 @@
     "isForked": false
   },
   "fontSizeInPx": false,
-  "font_color": "333333ff",
+  "font_color": "ffffffff",
   "font_name": "iphoneSystem",
   "font_size": 120,
   "font_style": "normal",
@@ -70,7 +74,7 @@
   },
   "kuid": "sbc78ed7f04044ada517b8eaa626cab4",
   "spaan": {
-    "font_name": "Helvetica",
+    "font_name": "RobotoFlex-Regular",
     "font_size": 120,
     "isForked": false
   },

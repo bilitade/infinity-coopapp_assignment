@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "223dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s74a394124564731b4832cd934e3b7b2",
+    "_skin_": "sc1757e58be647eaad541727b542b9dc",
     "_text_": "ETB",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",

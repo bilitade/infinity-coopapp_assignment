@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -32,10 +32,12 @@
         "value": "100%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "AppBar",
-        "flxContainer"
+        "flxContainer",
+        "BottomNavbar"
     ],
     "clipbounds": false,
     "containerweight": 100,

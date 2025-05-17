@@ -17,7 +17,234 @@
         },
         "properties": {
             "custom": [],
-            "passthrough": []
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "hb51ebe1a98045019e9034e14a6389e3",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "navHomeIconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navHomeIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "dea680665efb4ee9af00628822e5b370"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "idd89402a74642bc84226c65eb8a16e6",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 2,
+                    "propertyKey": "navPayIconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navPayIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "bea49534e8cf423b89ecfee20cd9b7fe"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "cf155d188c844988932e1aef40247476",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 3,
+                    "propertyKey": "navScanIconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navScanIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "c151180547ad4d19a0dc9b1c7fa6a690"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a84a24407aed44e688818c7f8a8a8153",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 4,
+                    "propertyKey": "navAppsIconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navAppsIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "c2180ee48d7348e1a5461bd134d5a842"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "bde90a64a1e343a593302ce0733e0924",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 5,
+                    "propertyKey": "navProfileIconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navProfileIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "aa69327c2bdb482baedc0614d7a9dc01"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "j5e53988f47440259c7ba0d3eee6e612",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 6,
+                    "propertyKey": "navProfileLabelSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navProfileLabel",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "fa6f13841aeb43bb8ca86fd3a6d419c8"
+                },
+                {
+                    "access": "Enable",
+                    "defaultSkinKUID": "s41117a9dc214c6b926e8ecb0fae9491",
+                    "group": "General",
+                    "kuid": "ddd321caa72448e3a281162646487a1f",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 7,
+                    "propertyKey": "navAppsLabelSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navAppsLabel",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "a3e58722541046a1a9c76ca2bc7a0a6e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c0b2657380b54ee497fe4dc74fdee386",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 8,
+                    "propertyKey": "navPayLabelSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navPayLabel",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "g1e2d15292c2475b9806a23a1a8496a8"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g989150cae54411b92258b44dc01e488",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 9,
+                    "propertyKey": "NavHomeLabelSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "isHiddenInTool": false,
+                        "srcWidget": "navHomeLabel",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "a5ed6be6e12c483595375e9cf040e8bd"
+                }
+            ]
         },
         "widgets": {
             "expose": [],
