@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "293.71%"
+        "value": "80.17%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "9.111200730860414%"
     },
     "_margin_": [
         0,
@@ -22,48 +22,39 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s3ccc9860365433db29260187d4fbc93",
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "73dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "27.26%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": false,
-    "allowverticalbounce": true,
-    "bounces": true,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "AccountCard",
-        "menusContainer"
+        "CopybtnContainer0g0ed065db9b940",
+        "CopyLable0ce2fdae6a08347"
     ],
     "clipbounds": false,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "flxContainer",
+    "id": "CopyitemOne0deac1db6a99345",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cde7faf56a4d4efc8a3423e4111560a4",
-    "layouttype": 2,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "dashBoardContainer",
+    "kuid": "cf7d946052f446818879ff40d27a443a",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "rowOne",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
+    "wType": "FlexContainer",
     "widgetalignment": 1
 }

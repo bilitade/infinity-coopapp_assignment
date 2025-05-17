@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "293.71%"
+        "value": "48dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -22,48 +22,43 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s3ccc9860365433db29260187d4fbc93",
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
-        "type": "string",
-        "value": "73dp"
+        "type": "number",
+        "value": "2"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "48dp"
     },
     "allboxes": [],
-    "allowhorizontalbounce": false,
-    "allowverticalbounce": true,
-    "bounces": true,
+    "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "AccountCard",
-        "menusContainer"
+        "CopytransferButton0b9bcf0f3fd694f",
+        "CopytransferIcon0f3bda71786ce4d"
     ],
     "clipbounds": false,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "flxContainer",
+    "id": "CopybtnContainer0bfc7ac8a3b784e",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cde7faf56a4d4efc8a3423e4111560a4",
+    "kuid": "b9fe862155e8466ca08de53f9549a5fc",
     "layouttype": 2,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "dashBoardContainer",
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyitemOne0j6ca39dde54d4c",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
+    "wType": "FlexContainer",
     "widgetalignment": 1
 }
