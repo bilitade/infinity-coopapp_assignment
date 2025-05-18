@@ -34,6 +34,7 @@
     "canUpdateUI": true,
     "children": [
         "AppBar",
+        "Drawer",
         "BottomNavbar"
     ],
     "containerweight": 100,
@@ -50,6 +51,7 @@
     "device": "iPhone13",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmApps",
     "id": "frmApps",
     "info": null,
     "initdone": false,

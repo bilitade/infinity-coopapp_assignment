@@ -13,9 +13,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_ide_onClick_a9061f879f504f6b92184ecb635f980d",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "alert(\"you clicked me\")"
+            "id": "INVOKE_FUNCTION__b0d7e0cf08694ce292239fce10f7a1e8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateApps",
+            "display": "navigateApps",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

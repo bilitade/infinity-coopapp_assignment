@@ -15,6 +15,12 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        0,
+        0
+    ],
     "_skin_": "sec1754a93dd4d19a8d2e6d3b37286f1",
     "_title_": null,
     "addWidgetsdone": false,
@@ -49,6 +55,7 @@
     "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmAppIntro",
     "id": "frmAppIntro",
     "info": null,
     "initdone": false,

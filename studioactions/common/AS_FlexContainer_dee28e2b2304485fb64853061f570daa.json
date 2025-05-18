@@ -13,10 +13,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_g2d609b27fdc4d4591cc0b3af756acf5",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "alert(\"you clicked me\")",
-            "parentId": null
+            "id": "INVOKE_FUNCTION__c3701c8833fe4f458ce5ba18f56e8b8d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateHome",
+            "display": "navigateHome",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

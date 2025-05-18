@@ -13,10 +13,14 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_f56eee1d937d4fab9b8de850affff3aa",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "alert(\"hello menu\");",
-            "parentId": null
+            "id": "INVOKE_FUNCTION__idde303c8ab74c97804802bba93a023f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleDrawer",
+            "display": "toggleDrawer",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

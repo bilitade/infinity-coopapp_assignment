@@ -13,9 +13,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_ide_onClick_cd9f7a5f3aed4b86b3e0b04eec1b784b",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "alert(\"you clicked me\")"
+            "id": "INVOKE_FUNCTION__cb603794dfcc49e283b7b157e87e3573",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigatePay",
+            "display": "navigatePay",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

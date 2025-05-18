@@ -19,7 +19,7 @@
         0,
         1,
         0,
-        1
+        2
     ],
     "_skin_": "sfabc4c93cd4492183efefc0f47bd808",
     "_title_": null,
@@ -55,6 +55,7 @@
     "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmLogin",
     "id": "frmLogin",
     "info": null,
     "initdone": false,

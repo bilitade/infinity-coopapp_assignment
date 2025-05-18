@@ -1,14 +1,18 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "4.07%"
+        "value": "96.00%"
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "-2dp"
     },
     "_margin_": [
         0,
@@ -24,39 +28,27 @@
         0
     ],
     "_percent_": true,
-    "_right_": {
-        "type": "string",
-        "value": "5%"
-    },
-    "_skin_": "s25d2550dc9b4e2fa6c5a59edbf5cfd9",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 0,
     "data": {},
-    "id": "AppBar",
+    "id": "Drawer",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
-    "kuid": "d1cc8aef3300451ba9671670430e8569",
+    "isvisible": false,
+    "kuid": "db83c0e78ab14bbc8287bc1ad4895c8d",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "frmDashboard",
-    "pf": "frmDashboard",
+    "parent": "frmPay",
+    "pf": "frmPay",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "sourceUserWidget": "d61d0b858dd1499aafd3de8eeefc828a",
+    "sourceUserWidget": "c33472643fdf4595ac23c21ebccfc6a1",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 10
 }

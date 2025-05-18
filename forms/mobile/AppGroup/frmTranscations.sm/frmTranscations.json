@@ -47,6 +47,7 @@
     "device": "iPhone13",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmTransactions",
     "id": "frmTranscations",
     "info": null,
     "initdone": false,
