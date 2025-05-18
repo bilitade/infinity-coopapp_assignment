@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "64.1595496691292%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1206b7ad7c24022b90c10ed82d3d947",
+    "_text_": "Next",
+    "_top_": {
+        "type": "string",
+        "value": "53.62321485312277%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "id": "nxtBtn2",
+    "ide_onClick": "AS_Button_b67f21ac6ecf4daa9d5f1bcf4d1a0cbb",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ee3caadb18b14f2986ed94f270d1f375",
+    "name": "kony.ui.Button",
+    "parent": "formNavBtnContainer",
+    "pf": "frmRegister",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

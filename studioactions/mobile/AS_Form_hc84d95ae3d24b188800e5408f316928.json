@@ -7,7 +7,6 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "frmAppIntro",
             "type": "forms",
             "platform": null,
             "KUID": "hf8efdf2124743feb1db58c33021417a"

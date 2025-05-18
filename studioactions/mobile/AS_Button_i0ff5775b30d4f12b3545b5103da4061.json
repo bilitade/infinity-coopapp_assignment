@@ -1,0 +1,18 @@
+{
+    "AS_Button_i0ff5775b30d4f12b3545b5103da4061": {
+        "id": "AS_Button_i0ff5775b30d4f12b3545b5103da4061",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegister",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j3b5db99c0ce4e71ab01fa2fa7b38c1a"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

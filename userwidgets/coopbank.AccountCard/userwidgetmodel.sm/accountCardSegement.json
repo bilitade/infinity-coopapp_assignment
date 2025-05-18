@@ -48,8 +48,37 @@
     "containerweight": 100,
     "counter": "03",
     "editstyle": "none",
-    "focusedindex": null,
-    "focuseditem": null,
+    "focusedindex": 0,
+    "focuseditem": {
+        "accountNumber": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1003100124534"
+        },
+        "accountType": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Saving Account"
+        },
+        "amount": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "12000.00"
+        },
+        "balanceLabel": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Your Balance"
+        },
+        "cardImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "cardcaynblue3x.png"
+        },
+        "currency": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "ETB"
+        },
+        "customerName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "John Doe Smith"
+        }
+    },
     "groupcells": false,
     "hasSections": false,
     "id": "accountCardSegement",
@@ -76,7 +105,7 @@
             {
                 "accountNumber": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "1003100123358"
+                    "text": "1003100124534"
                 },
                 "accountType": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -100,17 +129,77 @@
                 },
                 "customerName": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Chala Gemeda Benti"
+                    "text": "John Doe Smith"
                 }
             },
             {
                 "accountNumber": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "1003100123358"
+                    "text": "1003100122345"
                 },
                 "accountType": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Saving Account"
+                    "text": "OverDraft  Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "10000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Doe Smith"
+                }
+            },
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100123567"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Loan Account"
+                },
+                "amount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "50000.00"
+                },
+                "balanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Balance"
+                },
+                "cardImage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "cardorange3x.png"
+                },
+                "currency": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ETB"
+                },
+                "customerName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Doe Smith"
+                }
+            },
+            {
+                "accountNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1003100154563"
+                },
+                "accountType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Checking Account"
                 },
                 "amount": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -130,67 +219,7 @@
                 },
                 "customerName": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Chala Gemeda Benti"
-                }
-            },
-            {
-                "accountNumber": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "1003100123358"
-                },
-                "accountType": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Saving Account"
-                },
-                "amount": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "12000.00"
-                },
-                "balanceLabel": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Your Balance"
-                },
-                "cardImage": {
-                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "cardorange3x.png"
-                },
-                "currency": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "ETB"
-                },
-                "customerName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Chala Gemeda Benti"
-                }
-            },
-            {
-                "accountNumber": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "1003100123358"
-                },
-                "accountType": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Saving Account"
-                },
-                "amount": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "12000.00"
-                },
-                "balanceLabel": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Your Balance"
-                },
-                "cardImage": {
-                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "cardorange3x.png"
-                },
-                "currency": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "ETB"
-                },
-                "customerName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Chala Gemeda Benti"
+                    "text": "John Doe Smith"
                 }
             }
         ],
@@ -234,9 +263,41 @@
     "sectionheaderskin": "sedb34bf859d4880aec92b4c25e571ba",
     "selectedRows": null,
     "selectedState": false,
-    "selectedindex": null,
+    "selectedindex": [
+        0,
+        0
+    ],
     "selectedindices": null,
-    "selecteditems": null,
+    "selecteditems": {
+        "accountNumber": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1003100124534"
+        },
+        "accountType": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Saving Account"
+        },
+        "amount": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "12000.00"
+        },
+        "balanceLabel": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Your Balance"
+        },
+        "cardImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "cardcaynblue3x.png"
+        },
+        "currency": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "ETB"
+        },
+        "customerName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "John Doe Smith"
+        }
+    },
     "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "selectionbehaviorconfig": null,

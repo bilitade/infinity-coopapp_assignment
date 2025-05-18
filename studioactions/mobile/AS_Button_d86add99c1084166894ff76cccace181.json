@@ -1,0 +1,23 @@
+{
+    "AS_Button_d86add99c1084166894ff76cccace181": {
+        "id": "AS_Button_d86add99c1084166894ff76cccace181",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegister",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j3b5db99c0ce4e71ab01fa2fa7b38c1a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_gb49149f3ac04ed68d2159fd6a9cffd0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.stepTwoContainer.isVisible=false;\nthis.view.stepThreeContainer.isVisible=true;",
+            "parentId": null
+        }]
+    }
+}

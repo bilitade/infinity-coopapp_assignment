@@ -37,7 +37,7 @@
     "children": [
         "cardItemContainer"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
     "controllerInfo": {
@@ -53,7 +53,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "d7336c338cf14e81bab973793d2088b5",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "IappIntroCard",
     "pf": "IappIntroCard",

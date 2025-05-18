@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Nationality",
+    "_skin_": "sd31a5faa7194462a05fc93c3d94e2c1",
+    "_top_": {
+        "type": "number",
+        "value": "20"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "android": {
+        "psp": {
+            "popupTitle": "Select Nationality "
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "left_arrow.png",
+    "focusskin": "s939d0f4202d442183628f628ae262db",
+    "groupcells": false,
+    "id": "nationalityListBox",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a2f99f3b45a14844900d2d744eabd3cd",
+    "masterdata": [
+        [
+            "et",
+            "Ethiopian"
+        ],
+        [
+            "us",
+            "USA"
+        ],
+        [
+            "cad",
+            "Canada"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": true,
+    "parent": "fieldContainer",
+    "pf": "frmRegister",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "et",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "et",
+        "Ethiopian"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox"
+}
