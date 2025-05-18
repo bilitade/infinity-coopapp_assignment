@@ -1,0 +1,131 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendericon.png",
+    "__id": "frmTranscations_datePicker",
+    "__input": "datePicker",
+    "_data_": null,
+    "_date_": [
+        18,
+        5,
+        2025
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2.79%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "select Date",
+    "_skin_": "s365f88d68c34e3791799ae67187c56c",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "126dp"
+    },
+    "advview": "default",
+    "calendaricon": "calendericon.png",
+    "canUpdateUI": true,
+    "cancelButtonSkin": "s1fe097c82d94e60b09559730d5df4d9",
+    "centery": {
+        "type": "string",
+        "value": "49.97%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        18,
+        5,
+        2025
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 18,
+    "daytextalignmentincell": 5,
+    "disabledSkins": {},
+    "displayedMonths": [
+        5,
+        2025
+    ],
+    "entereddate": [
+        18,
+        5,
+        2025
+    ],
+    "focusskin": "s4380ebc3330406e89572fdb35bb7702",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "18/05/2025",
+    "gridCellFocusSkin": "s06e926868184322a509294fca9eadca",
+    "gridCellSelectedSkin": "sd15a5b9a165409b9e324e15525e2688",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "datePicker",
+    "info": null,
+    "invokedProperty": "rightNavigationImage",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a8ce7916319144a1b4260e57d974d073",
+    "luadate": [
+        18,
+        5,
+        2025
+    ],
+    "minutes": 0,
+    "month": 5,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2025",
+    "parent": "filterContainer",
+    "pf": "frmTranscations",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2025",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {
+            "cancelButtonSkin": "s1fe097c82d94e60b09559730d5df4d9",
+            "gridCellFocusSkin": "s06e926868184322a509294fca9eadca",
+            "gridCellSelectedSkin": "sd15a5b9a165409b9e324e15525e2688",
+            "leftNavigationImage": "left_arrow.png",
+            "rightNavigationImage": "right_arrow.png"
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2025
+}

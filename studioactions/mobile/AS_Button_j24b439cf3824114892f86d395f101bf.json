@@ -17,6 +17,7 @@
             "id": "NAVIGATE_TO_FORM__a0beca5d75614a3498d6f8e16664dda1",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmLogin",
+            "friendlyName": "frmLogin",
             "formKUID": "d3439fcd3e1c4b53b476bd40691b3b13",
             "projectName": "CoopApp",
             "mappings": {},

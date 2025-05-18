@@ -14,13 +14,6 @@
                 "FormName": "AppGroup/frmLogin",
                 "friendlyName": "frmLogin"
             },
-            "frmDashboard": {
-                "ControllerExtensions": [],
-                "FormController": "kony.mvc.MDAFormController",
-                "Controller": "AppGroup/frmDashboardController",
-                "FormName": "AppGroup/frmDashboard",
-                "friendlyName": "frmDashboard"
-            },
             "frmAppIntro": {
                 "ControllerExtensions": [],
                 "FormController": "kony.mvc.MDAFormController",
@@ -55,6 +48,13 @@
                 "Controller": "AppGroup/frmTranscationsController",
                 "FormName": "AppGroup/frmTranscations",
                 "friendlyName": "frmTransactions"
+            },
+            "frmHome": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "AppGroup/frmHomeController",
+                "FormName": "AppGroup/frmHome",
+                "friendlyName": "frmHome"
             }
         }
     },

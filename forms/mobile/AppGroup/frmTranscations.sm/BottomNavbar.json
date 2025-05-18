@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "16.01%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "navHomeIconSrc": "navhomeactiveicon.png",
+        "navPayIconSrc": "navpayinactiveicon.png"
+    },
+    "id": "BottomNavbar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e404ecae053b463c82a8e8daf8d63952",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "transactionFormContainwr",
+    "pf": "frmTranscations",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "e7302454468c40219973c66af3cb0357",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

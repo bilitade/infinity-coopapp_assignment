@@ -19,7 +19,7 @@
         0,
         1,
         0,
-        6
+        1
     ],
     "_skin_": "sec1754a93dd4d19a8d2e6d3b37286f1",
     "_title_": null,
@@ -39,13 +39,15 @@
     },
     "canUpdateUI": true,
     "children": [
-        "transactionFormContainwr"
+        "AppBar",
+        "Drawer",
+        "dashBoardContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmTranscationsController"
+            "name": "frmHomeController"
         }
     },
     "currentLocale": "default",
@@ -55,8 +57,8 @@
     "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "frmTransactions",
-    "id": "frmTranscations",
+    "friendlyName": "frmHome",
+    "id": "frmHome",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -74,7 +76,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "abd237470a6a4d6199faaef8feb6d61b",
+                "kuid": "afb88fb70fa64f7abc839ad309c9f5a9",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -85,7 +87,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "fef7be1fa2864795a55f8e4d7b96cd1f",
+                        "kuid": "ie38fc34d3e347e6a3497fd78483cbf8",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -102,14 +104,14 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "j9a26c9fe73f446cbe34957f0f57b47d",
+    "kuid": "aa497a3d84844418a43e75571242531c",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "spaan",
-    "prevDevice": "iPhone13",
-    "prevPlatform": "iphone",
+    "platform": "android",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "spaan",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

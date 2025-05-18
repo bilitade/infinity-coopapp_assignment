@@ -3,7 +3,7 @@ define(function() {
 	return {
       
        navigateHome: function (){
-          var  navObj=new kony.mvc.Navigation("frmDashboard");
+          var  navObj=new kony.mvc.Navigation("frmHome");
           navObj.navigate(null)
        },
       navigatePay: function (){
