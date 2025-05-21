@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "76.28%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-7dp"
     },
     "_margin_": [
         0,
@@ -22,43 +22,51 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
+    "_skin_": "s3ccc9860365433db29260187d4fbc93",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "50dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
     },
     "children": [
-        "heroImage"
+        "appsLabel"
     ],
     "clipbounds": false,
-    "containerId": true,
     "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
     "enablescrolling": true,
-    "id": "cardItemContainer",
+    "horizontalscrollindicator": true,
+    "id": "fsAppsContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "dd55b09708544deda70731b23b9adada",
+    "kuid": "c0e2ac22109a404f84e2a641453201d9",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "introCardContainer",
-    "pf": "IappIntroCard",
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmApps",
+    "pf": "frmApps",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
+    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
     "widgetalignment": 1
 }

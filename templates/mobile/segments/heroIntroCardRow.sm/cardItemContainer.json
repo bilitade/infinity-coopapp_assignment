@@ -1,14 +1,12 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
-    "_base64_": null,
     "_height_": {
         "type": "string",
         "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -16,14 +14,15 @@
         0,
         0
     ],
+    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "imagedrag.png",
+    "_percent_": true,
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,29 +31,34 @@
         "type": "string",
         "value": "100%"
     },
+    "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "centery": {
         "type": "string",
         "value": "50%"
     },
+    "children": [
+        "heroImage"
+    ],
+    "clipbounds": false,
     "containerId": true,
     "containerweight": 100,
-    "id": "heroImage",
-    "imagescalemode": 1,
+    "enablescrolling": true,
+    "id": "cardItemContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bfe8920412c6445fbe7693cbb886af84",
-    "name": "kony.ui.Image2",
-    "parent": "cardItemContainer",
-    "pf": "IappIntroCard",
+    "kuid": "dd55b09708544deda70731b23b9adada",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "introCardContainer",
+    "pf": "heroIntroCardRow",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
 }

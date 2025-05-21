@@ -39,8 +39,8 @@
         "value": "50%"
     },
     "children": [
-        "CopyImage0d463f09f5b5c44",
-        "CopyLabel0c30b9481fc2f4b"
+        "drawerSecIcon",
+        "drawerSecLabel"
     ],
     "clipbounds": false,
     "containerweight": 100,

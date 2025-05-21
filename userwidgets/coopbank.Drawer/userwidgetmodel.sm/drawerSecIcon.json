@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "600dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "5dp"
     },
     "_margin_": [
         0,
@@ -23,30 +23,30 @@
         0
     ],
     "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "bannerseamless.png",
+    "_src_": "security.png",
     "_top_": {
         "type": "string",
-        "value": "50dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "400dp"
+        "value": "40dp"
     },
     "canUpdateUI": true,
-    "centerx": {
+    "centery": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
-    "id": "IntrorSeamlessImg",
+    "id": "drawerSecIcon",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e32c69fa5cda4b31ae15bf9d93ec3223",
+    "kuid": "ec0fa9205f2143c88b329df62a1b5b9b",
     "name": "kony.ui.Image2",
-    "parent": "frmIntrorSeamless",
-    "pf": "frmIntrorSeamless",
+    "parent": "menuSecond",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

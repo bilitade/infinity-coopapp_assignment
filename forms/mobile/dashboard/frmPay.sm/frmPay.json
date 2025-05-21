@@ -35,6 +35,7 @@
     "children": [
         "AppBar",
         "Drawer",
+        "fsPayContainer",
         "BottomNavbar"
     ],
     "containerweight": 100,

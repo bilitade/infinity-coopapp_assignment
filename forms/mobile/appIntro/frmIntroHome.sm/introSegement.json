@@ -65,8 +65,13 @@
     },
     "containerweight": 100,
     "counter": "03",
-    "focusedindex": null,
-    "focuseditem": null,
+    "focusedindex": 0,
+    "focuseditem": {
+        "heroImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "bannerwelcome.png"
+        }
+    },
     "generatedtemplate": "i6aa64fa923541a89011d0bec28a34cf",
     "groupcells": false,
     "hasSections": false,
@@ -110,9 +115,17 @@
     "sectionheaderskin": "s39ba5c6288545b981c71ec655a8078c",
     "selectedRows": null,
     "selectedState": false,
-    "selectedindex": null,
+    "selectedindex": [
+        0,
+        0
+    ],
     "selectedindices": null,
-    "selecteditems": null,
+    "selecteditems": {
+        "heroImage": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "bannerwelcome.png"
+        }
+    },
     "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "selectionbehaviorconfig": null,

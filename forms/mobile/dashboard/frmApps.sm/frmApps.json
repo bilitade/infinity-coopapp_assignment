@@ -35,6 +35,7 @@
     "children": [
         "AppBar",
         "Drawer",
+        "fsAppsContainer",
         "BottomNavbar"
     ],
     "containerweight": 100,
@@ -48,7 +49,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone13",
+    "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "friendlyName": "frmApps",
@@ -103,7 +104,7 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "spaan",
     "prevDevice": "iPhone13",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,

@@ -47,6 +47,7 @@
     "contentalignment": 5,
     "focusskin": "sc754696b131499fb0b07a5dd6050e9c",
     "id": "searchBox",
+    "ide_onTextChange": "AS_TextField_h481850a341e4061965716f8887703b3",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

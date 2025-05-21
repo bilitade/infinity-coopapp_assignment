@@ -1,0 +1,26 @@
+{
+    "AS_Calendar_b718d329dea44a5d8997695ac808d181": {
+        "id": "AS_Calendar_b718d329dea44a5d8997695ac808d181",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmTranscations",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j9a26c9fe73f446cbe34957f0f57b47d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ib363b94d73e476fa944992fa5acfc23",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (!this.fullData) {\n  this.fullData = this.view.txnSegement.data;\n}\n\nvar selectedDate = this.view.datepicker.date.replace(/\\//g, '-');\n\nvar filteredData = this.fullData.filter(function(item) {\n  return item.txnDate === selectedDate;\n});\n\nthis.view.txnSegement.setData(filteredData);",
+            "parentId": null
+        }]
+    }
+}

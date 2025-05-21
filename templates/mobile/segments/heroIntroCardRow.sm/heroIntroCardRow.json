@@ -29,7 +29,7 @@
     "device": "Pixel3",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "id": "IappIntroCard",
+    "id": "heroIntroCardRow",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

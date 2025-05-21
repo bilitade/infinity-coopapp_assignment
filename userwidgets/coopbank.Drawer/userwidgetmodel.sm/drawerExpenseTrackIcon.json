@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "security.png",
+    "_src_": "expensetracker.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -38,14 +38,14 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "id": "CopyImage0d463f09f5b5c44",
+    "id": "drawerExpenseTrackIcon",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ec0fa9205f2143c88b329df62a1b5b9b",
+    "kuid": "e74d68a9d20647068782bd02aed16621",
     "name": "kony.ui.Image2",
-    "parent": "menuSecond",
+    "parent": "menuThrid",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

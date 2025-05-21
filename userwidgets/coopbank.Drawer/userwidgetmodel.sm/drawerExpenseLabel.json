@@ -22,7 +22,7 @@
         0
     ],
     "_skin_": "s60f26bb5b6949949594da71a496c28e",
-    "_text_": "Account Managment",
+    "_text_": "Expense Tracker",
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -41,7 +41,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0i2fe885371d642",
+    "id": "drawerExpenseLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ic58c1d166094eeabf62c3abf76fc3dd",
+    "kuid": "d765245997fb403e87b845cfaee12f62",
     "name": "kony.ui.Label",
-    "parent": "menuone",
+    "parent": "menuThrid",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

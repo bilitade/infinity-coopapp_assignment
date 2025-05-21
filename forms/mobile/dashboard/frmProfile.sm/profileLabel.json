@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "5dp"
-    },
     "_margin_": [
         1,
         1,
@@ -21,8 +17,12 @@
         0,
         0
     ],
-    "_skin_": "s60f26bb5b6949949594da71a496c28e",
-    "_text_": "Expense Tracker",
+    "_skin_": "sf1f3e901b96480d9c94b79e015aa4c7",
+    "_text_": "Profile",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -35,13 +35,13 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopyLabel0d15bffe7592a4e",
+    "id": "profileLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d765245997fb403e87b845cfaee12f62",
+    "kuid": "cda44d94b5dc4768b96449c4c9336950",
     "name": "kony.ui.Label",
-    "parent": "menuThrid",
-    "pf": "userwidgetmodel",
+    "parent": "fsProfileContainer",
+    "pf": "frmProfile",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

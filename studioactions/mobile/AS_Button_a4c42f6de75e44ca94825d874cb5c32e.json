@@ -1,0 +1,30 @@
+{
+    "AS_Button_a4c42f6de75e44ca94825d874cb5c32e": {
+        "id": "AS_Button_a4c42f6de75e44ca94825d874cb5c32e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfile",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c1c9414624574b548d1537966e170ba8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__d1571ec53e7c4102a55993e5caeec912",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "d3439fcd3e1c4b53b476bd40691b3b13",
+            "projectName": "CoopApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "auth",
+            "isCustomInput": false
+        }]
+    }
+}

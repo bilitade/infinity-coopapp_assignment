@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "5dp"
-    },
     "_margin_": [
         1,
         1,
@@ -21,8 +17,12 @@
         0,
         0
     ],
-    "_skin_": "s60f26bb5b6949949594da71a496c28e",
-    "_text_": "Security",
+    "_skin_": "sf1f3e901b96480d9c94b79e015aa4c7",
+    "_text_": "Pay",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -35,13 +35,13 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopyLabel0c30b9481fc2f4b",
+    "id": "payLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "jd2cfbccfdd14760aff440971c664497",
+    "kuid": "e2f1dbe3538c460684abf2faf1079da1",
     "name": "kony.ui.Label",
-    "parent": "menuSecond",
-    "pf": "userwidgetmodel",
+    "parent": "fsPayContainer",
+    "pf": "frmPay",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

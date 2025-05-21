@@ -181,7 +181,7 @@
                 },
                 "cardImage": {
                     "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "cardorange3x.png"
+                    "src": "carddark3x.png"
                 },
                 "currency": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -211,7 +211,7 @@
                 },
                 "cardImage": {
                     "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "cardorange3x.png"
+                    "src": "cardredish3x.png"
                 },
                 "currency": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
