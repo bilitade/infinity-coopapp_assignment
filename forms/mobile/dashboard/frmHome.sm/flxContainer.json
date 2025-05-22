@@ -6,7 +6,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "80.69%"
+        "value": "100.00%"
     },
     "_left_": {
         "type": "string",
@@ -40,6 +40,10 @@
     "allowverticalbounce": true,
     "bounces": true,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "48.41%"
+    },
     "children": [
         "AccountCard",
         "menusContainer"
@@ -70,5 +74,5 @@
     "verticalscrollindicator": true,
     "wType": "FlexScrollContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 2
 }

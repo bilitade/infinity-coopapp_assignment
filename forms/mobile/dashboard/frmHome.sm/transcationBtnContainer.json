@@ -46,7 +46,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "transcationBtnContainer",
-    "ide_onClick": "AS_FlexContainer_c9645e9dbcc64358819c2188a82cb277",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

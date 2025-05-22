@@ -189,7 +189,6 @@
                 },
                 {
                     "access": "Enable",
-                    "defaultSkinKUID": "s41117a9dc214c6b926e8ecb0fae9491",
                     "group": "General",
                     "kuid": "ddd321caa72448e3a281162646487a1f",
                     "originalPropertyKey": "skin",
@@ -198,6 +197,7 @@
                     "pw": {
                         "access": "readwrite",
                         "category": "skin",
+                        "dependencyConditions": {},
                         "dependentKeysKUIDs": null,
                         "displayName": "Normal",
                         "isHiddenInTool": false,

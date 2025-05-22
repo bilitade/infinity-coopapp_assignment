@@ -29,7 +29,7 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_width_": {
         "type": "string",
-        "value": "64dp"
+        "value": "20%"
     },
     "allboxes": [],
     "autogrowmode": 0,

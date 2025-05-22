@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "60%"
     },
     "_left_": {
         "type": "string",
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -46,7 +46,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "navHomeBtnContainer",
-    "ide_onClick": "AS_FlexContainer_dee28e2b2304485fb64853061f570daa",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

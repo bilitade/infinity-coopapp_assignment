@@ -34,8 +34,10 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1c85a5694fc4df9b9d3de733c2da4c1"
+    },
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
     "id": "topupButton",
     "info": null,
     "iscustomlayout": false,

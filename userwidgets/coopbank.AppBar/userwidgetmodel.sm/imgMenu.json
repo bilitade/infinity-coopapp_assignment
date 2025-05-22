@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "70.59%"
+        "value": "20dp"
     },
     "_left_": {
         "type": "string",
-        "value": "17.25924910180641%"
+        "value": "50%"
     },
     "_margin_": [
         0,
@@ -23,33 +23,34 @@
         0
     ],
     "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "applogo_blue.png",
+    "_src_": "icon_menu_dark.png",
     "_top_": {
         "type": "string",
         "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "208dp"
+        "value": "20dp"
     },
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
-    "id": "applogo",
+    "id": "imgMenu",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h6577abe2a714b99922e030d49f3b842",
+    "kuid": "jc23adb48f28406c937ccfd1cdafc4f3",
     "name": "kony.ui.Image2",
-    "parent": "AppBar",
+    "parent": "menu",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,
     "wType": "Image",
-    "widgetalignment": 5
+    "widgetalignment": 5,
+    "zindex": 1
 }

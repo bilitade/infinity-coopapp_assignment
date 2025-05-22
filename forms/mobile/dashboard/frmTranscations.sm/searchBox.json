@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "165dp"
+        "value": "33.33%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -39,7 +39,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50.05%"
     },
     "containerheight": "",
     "containerheightmode": 1,
@@ -57,7 +57,7 @@
     "name": "kony.ui.TextBox2",
     "parent": "filterContainer",
     "pf": "frmTranscations",
-    "placeholderskin": "s40fd79410cd48b2a153fc28b1eccbca",
+    "placeholderskin": "s18694da65064ab6a440fec547fa63b5",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

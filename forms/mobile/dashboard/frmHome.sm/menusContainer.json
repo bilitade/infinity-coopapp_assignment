@@ -1,8 +1,12 @@
 {
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
     "_height_": {
         "type": "string",
-        "value": "319dp"
+        "value": "292dp"
     },
     "_left_": {
         "type": "string",
@@ -22,11 +26,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
-    "_top_": {
-        "type": "string",
-        "value": "312dp"
-    },
+    "_skin_": "s815c07eae6c46cc8e75ebf531f7115d",
     "_width_": {
         "type": "string",
         "value": "95%"
@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "children": [
         "rowOne",
@@ -61,5 +61,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 3
 }

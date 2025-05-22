@@ -47,7 +47,7 @@
     "leftsidetext": "ON",
     "name": "kony.ui.Switch",
     "onslide": null,
-    "osPlatform": "spaan",
+    "osPlatform": "android",
     "osVersion": "iOS7",
     "parent": "rememberContainer",
     "pf": "frmLogin",

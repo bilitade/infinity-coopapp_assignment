@@ -260,7 +260,7 @@
     "category": "app",
     "chat": "false",
     "cloud_account_guid": "0fdd65e5-0862-4960-99a5-f9f384ba4448",
-    "cloud_env_GUID": "0e9ba1ba-520c-49c9-ae36-0d0d61ac9097",
+    "cloud_env_GUID": null,
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -332,6 +332,11 @@
     "hybridaddrkey": "",
     "hybridhttpsportkey": "",
     "hybridportkey": "",
+    "ide_appEvents": {
+        "mobile": {
+            "postappinit": "AS_AppEvents_jc9a84af19e04dffb1ada5219394b75d"
+        }
+    },
     "imagewhendownloading": "",
     "initialRotationPreferenceKey": "landscape",
     "inputaccessoryviewtype": "nextprevtoolbar",

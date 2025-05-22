@@ -8,7 +8,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "16.01%"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
@@ -36,22 +36,21 @@
     "canUpdateUI": true,
     "containerweight": 0,
     "data": {
-        "navHomeIconSrc": "navhomeactiveicon.png",
-        "navPayIconSrc": "navpayinactiveicon.png"
+        "navPayIconSrc": "navpayactiveicon.png"
     },
     "id": "BottomNavbar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e404ecae053b463c82a8e8daf8d63952",
+    "kuid": "g0b1c8281a7c4860a38615dbd9879d03",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "transactionFormContainwr",
+    "parent": "frmTranscations",
     "pf": "frmTranscations",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "e7302454468c40219973c66af3cb0357",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 11
 }

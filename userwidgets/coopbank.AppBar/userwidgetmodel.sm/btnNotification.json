@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "-226.51%"
     },
     "_margin_": [
         6,
@@ -32,11 +32,19 @@
         "value": "32dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
-    "id": "notificationBtn",
+    "id": "btnNotification",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

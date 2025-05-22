@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "80dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -43,7 +43,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "focusskin": null,
     "id": "navScanButton",
     "info": null,
     "iscustomlayout": false,
@@ -54,5 +54,6 @@
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 2
 }

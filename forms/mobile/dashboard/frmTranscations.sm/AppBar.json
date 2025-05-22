@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "4.07%"
+        "value": "8%"
     },
     "_left_": {
         "type": "string",
@@ -24,11 +24,7 @@
         0
     ],
     "_percent_": true,
-    "_right_": {
-        "type": "string",
-        "value": "5%"
-    },
-    "_skin_": "s25d2550dc9b4e2fa6c5a59edbf5cfd9",
+    "_skin_": "sd9a568f4aee4debbf8fd6d9794c8ea4",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -48,10 +44,10 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e3d914e765d846da904ea00ab8388b55",
+    "kuid": "b9946166b22f493bbde2746f4c33b8bd",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "transactionFormContainwr",
+    "parent": "frmTranscations",
     "pf": "frmTranscations",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

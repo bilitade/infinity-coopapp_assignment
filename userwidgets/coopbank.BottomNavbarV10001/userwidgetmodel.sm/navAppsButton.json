@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -43,8 +43,9 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "focusskin": null,
     "id": "navAppsButton",
+    "ide_onClick": "AS_Button_e1fdb988a4144107b2ec4fd1507624ab",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
@@ -54,5 +55,6 @@
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 2
 }

@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -46,7 +46,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "navProfileBtnContainer",
-    "ide_onClick": "AS_FlexContainer_b071148edd8841f88baa612f9322f913",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

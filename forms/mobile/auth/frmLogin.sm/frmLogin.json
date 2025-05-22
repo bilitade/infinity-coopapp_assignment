@@ -18,10 +18,9 @@
     "_pxMenuIndex": [
         0,
         1,
-        0,
-        2
+        1,
+        0
     ],
-    "_skin_": "sfabc4c93cd4492183efefc0f47bd808",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -108,9 +107,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "spaan",
+    "platform": "android",
     "prevDevice": "Pixel3",
-    "prevPlatform": "android",
+    "prevPlatform": "spaan",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

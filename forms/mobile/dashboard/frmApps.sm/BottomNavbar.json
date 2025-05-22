@@ -8,7 +8,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "16.01%"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
@@ -42,7 +42,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b400d72adf44475094a57ae21aacad49",
+    "kuid": "h4c0049c9672445a9b0f95b7ab9b60d3",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
     "parent": "frmApps",
@@ -52,5 +52,5 @@
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "e7302454468c40219973c66af3cb0357",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 10
 }

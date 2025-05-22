@@ -34,9 +34,12 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1c85a5694fc4df9b9d3de733c2da4c1"
+    },
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
     "id": "transcationButton",
+    "ide_onClick": "AS_Button_c8b87df353564e7f8db5b75bc09c40c9",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

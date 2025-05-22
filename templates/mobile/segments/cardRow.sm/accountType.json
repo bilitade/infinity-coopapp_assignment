@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "27dp"
+        "value": "62dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Saving Account",
     "_top_": {
         "type": "string",
-        "value": "20dp"
+        "value": "35dp"
     },
     "_width_": {
         "type": "ref",

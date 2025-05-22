@@ -8,7 +8,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "13.89%"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
@@ -28,7 +28,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s20f5a757f3743439a46bc4a53615022",
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 0,
     "data": {
@@ -49,12 +49,12 @@
     "kuid": "d2eafad3c5284042a2d777ef215d8d79",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "dashBoardContainer",
+    "parent": "frmHome",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "e7302454468c40219973c66af3cb0357",
     "wType": "UserWidgetInstance",
-    "zindex": 10
+    "zindex": 4
 }

@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "48.72%"
+        "value": "46.32%"
     },
     "_left_": {
         "type": "string",
@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50.01%"
     },
     "containerweight": 0,
     "data": {},
@@ -54,5 +54,5 @@
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "ac5e2e1bdace488688e23398d5a58402",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 3
 }

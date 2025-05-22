@@ -45,9 +45,9 @@
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "spaan",
-    "prevDevice": "iPhone13",
-    "prevPlatform": "iphone",
+    "platform": "android",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "spaan",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

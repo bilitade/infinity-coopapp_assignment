@@ -1,0 +1,17 @@
+{
+    "AS_AppEvents_jc9a84af19e04dffb1ada5219394b75d": {
+        "id": "AS_AppEvents_jc9a84af19e04dffb1ada5219394b75d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_b755afc739f44eb492c949129ce2e4dd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.setApplicationProperties({\n    \"statusBarColor\": \"00adef00\",\n    \"statusBarHidden\": false,\n    \"navigationBarColor\" : \"00adef00\",\n  \n   \n});\t",
+            "parentId": null
+        }]
+    }
+}

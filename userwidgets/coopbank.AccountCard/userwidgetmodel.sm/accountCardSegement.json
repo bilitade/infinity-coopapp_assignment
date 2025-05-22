@@ -45,40 +45,15 @@
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "counter": "03",
     "editstyle": "none",
-    "focusedindex": 0,
-    "focuseditem": {
-        "accountNumber": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "1003100124534"
-        },
-        "accountType": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "Saving Account"
-        },
-        "amount": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "12000.00"
-        },
-        "balanceLabel": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "Your Balance"
-        },
-        "cardImage": {
-            "@class": "com.viz.ide.model.segment.ImageSegmentData",
-            "src": "cardcaynblue3x.png"
-        },
-        "currency": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "ETB"
-        },
-        "customerName": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "John Doe Smith"
-        }
-    },
+    "focusedindex": null,
+    "focuseditem": null,
     "groupcells": false,
     "hasSections": false,
     "id": "accountCardSegement",
@@ -263,41 +238,9 @@
     "sectionheaderskin": "sedb34bf859d4880aec92b4c25e571ba",
     "selectedRows": null,
     "selectedState": false,
-    "selectedindex": [
-        0,
-        0
-    ],
+    "selectedindex": null,
     "selectedindices": null,
-    "selecteditems": {
-        "accountNumber": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "1003100124534"
-        },
-        "accountType": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "Saving Account"
-        },
-        "amount": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "12000.00"
-        },
-        "balanceLabel": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "Your Balance"
-        },
-        "cardImage": {
-            "@class": "com.viz.ide.model.segment.ImageSegmentData",
-            "src": "cardcaynblue3x.png"
-        },
-        "currency": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "ETB"
-        },
-        "customerName": {
-            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-            "text": "John Doe Smith"
-        }
-    },
+    "selecteditems": null,
     "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "selectionbehaviorconfig": null,

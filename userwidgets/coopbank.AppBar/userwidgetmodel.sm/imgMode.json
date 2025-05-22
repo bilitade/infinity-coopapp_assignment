@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "34dp"
+        "value": "20dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0.00%"
     },
     "_margin_": [
         0,
@@ -22,26 +22,34 @@
         0,
         0
     ],
-    "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "menuicon.png",
+    "_skin_": "s629ad0ba0144ab3bf533332d871c3a2",
+    "_src_": "dark_mode.png",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "34dp"
+        "value": "20dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "id": "humburgerBg",
+    "id": "imgMode",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "jc23adb48f28406c937ccfd1cdafc4f3",
+    "kuid": "abf09a3c02694aee8844386d924ba91e",
     "name": "kony.ui.Image2",
-    "parent": "menu",
+    "parent": "mode",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

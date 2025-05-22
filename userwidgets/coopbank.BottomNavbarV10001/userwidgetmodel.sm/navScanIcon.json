@@ -4,7 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "80dp"
+        "value": "64dp"
     },
     "_left_": {
         "type": "string",
@@ -30,16 +30,16 @@
     },
     "_width_": {
         "type": "string",
-        "value": "80dp"
+        "value": "64dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "49.99%"
     },
     "containerweight": 100,
     "id": "navScanIcon",

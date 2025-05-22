@@ -28,14 +28,14 @@
         "value": "227dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "69.83%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
         "textStyle": {
-            "letterSpacing": 2,
-            "lineSpacing": 1,
+            "letterSpacing": 0,
+            "lineSpacing": 0,
             "strikeThrough": false
         }
     },

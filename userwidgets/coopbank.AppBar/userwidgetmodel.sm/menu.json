@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "32dp"
+        "value": "24dp"
     },
     "_left_": {
         "type": "string",
@@ -25,11 +25,11 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "49.501915635733766%"
     },
     "_width_": {
         "type": "string",
-        "value": "32dp"
+        "value": "20%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -39,14 +39,13 @@
         "value": "50%"
     },
     "children": [
-        "humburgerBtn",
-        "humburgerBg"
+        "btnMenu",
+        "imgMenu"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "menu",
-    "ide_onClick": "AS_FlexContainer_da10dd470641481a9bd7f02596c3c91c",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
@@ -61,5 +60,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

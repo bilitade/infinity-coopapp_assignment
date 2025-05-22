@@ -4,7 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "48dp"
+        "value": "44dp"
     },
     "_left_": {
         "type": "string",
@@ -30,12 +30,12 @@
     },
     "_width_": {
         "type": "string",
-        "value": "48dp"
+        "value": "44dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "id": "transferIcon",

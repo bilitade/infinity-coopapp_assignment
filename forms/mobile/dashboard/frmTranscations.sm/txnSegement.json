@@ -203,7 +203,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "488dp"
+        "value": "300dp"
     },
     "_indicator_": "none",
     "_left_": {
@@ -229,7 +229,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "90.74%"
+        "value": "90%"
     },
     "alternaterowskin": "s66d3cd24eb04e9d919b61648c1db1f3",
     "autogrowmode": 0,
@@ -287,7 +287,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "ffffff00",
     "separatorrequired": true,

@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "94.97%"
+        "value": "78.54%"
     },
     "_left_": {
         "type": "string",
@@ -25,7 +25,7 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "5%"
+        "value": "7.66%"
     },
     "_width_": {
         "type": "string",
@@ -34,9 +34,12 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "flxContainer",
-        "BottomNavbar"
+        "flxContainer"
     ],
     "clipbounds": false,
     "containerweight": 100,
