@@ -39,8 +39,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "introContainer",
-        "infinityLogo"
+        "flxIntro",
+        "imgInfinityLogo"
     ],
     "containerweight": 100,
     "controllerInfo": {

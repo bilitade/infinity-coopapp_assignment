@@ -35,13 +35,13 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "introSegement",
-        "letsStartButton"
+        "segIntro",
+        "btnLetsStart"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "introContainer",
+    "id": "flxIntro",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -9,18 +9,24 @@
     "font_size": 100,
     "isForked": false
   },
-  "background_color": "00000000",
+  "background_color": "c6e7ffff",
   "bg_type": "one",
-  "border_color": "000000ff",
+  "border_color": "333333ff",
   "border_style": "plain",
   "border_type": 0,
   "border_width": 0,
+  "constants": {
+    "background_color": {
+      "key": "color",
+      "value": "${themes.primary90}"
+    }
+  },
   "desktopweb": {
     "font_name": "Helvetica",
     "font_size": 100,
     "isForked": false
   },
-  "font_color": "000000ff",
+  "font_color": "333333ff",
   "font_name": "iphoneSystem",
   "font_size": 100,
   "font_style": "normal",
@@ -41,7 +47,7 @@
     "font_size": 100,
     "isForked": false
   },
-  "kuid": "s06e926868184322a509294fca9eadca",
+  "kuid": "s52b01afb6864e9a91c4b8494fe82714",
   "spaan": {
     "font_name": "Helvetica",
     "font_size": 100,
@@ -77,7 +83,7 @@
     "font_size": 100,
     "isForked": false
   },
-  "wType": "Grid Calendar Cell Skin",
+  "wType": "ListBox",
   "watchos": {
     "font_name": "System",
     "font_size": 100,

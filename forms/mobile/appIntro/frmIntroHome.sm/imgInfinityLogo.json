@@ -42,7 +42,7 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "id": "infinityLogo",
+    "id": "imgInfinityLogo",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

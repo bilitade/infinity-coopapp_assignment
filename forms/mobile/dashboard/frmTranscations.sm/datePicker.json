@@ -43,7 +43,6 @@
     "advview": "default",
     "calendaricon": "calendericon.png",
     "canUpdateUI": true,
-    "cancelButtonSkin": "s1fe097c82d94e60b09559730d5df4d9",
     "centery": {
         "type": "string",
         "value": "49.97%"
@@ -71,11 +70,8 @@
         5,
         2025
     ],
-    "focusskin": "s4380ebc3330406e89572fdb35bb7702",
     "format": "yyyy/MM/dd",
     "formatteddate": "2025/05/18",
-    "gridCellFocusSkin": "s06e926868184322a509294fca9eadca",
-    "gridCellSelectedSkin": "sd15a5b9a165409b9e324e15525e2688",
     "hidedaysheader": false,
     "hidemonthsheader": false,
     "hour": 0,
@@ -109,9 +105,6 @@
     "startDay": 0,
     "viewconfig": {
         "gridConfig": {
-            "cancelButtonSkin": "s1fe097c82d94e60b09559730d5df4d9",
-            "gridCellFocusSkin": "s06e926868184322a509294fca9eadca",
-            "gridCellSelectedSkin": "sd15a5b9a165409b9e324e15525e2688",
             "leftNavigationImage": "left_arrow.png",
             "rightNavigationImage": "right_arrow.png"
         }
