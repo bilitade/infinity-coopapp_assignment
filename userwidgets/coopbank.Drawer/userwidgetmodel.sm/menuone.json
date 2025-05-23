@@ -52,7 +52,7 @@
     "kuid": "b9a46ef1947740f28e57c2f2b6cc1bd1",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "drawerMenusContainer",
+    "parent": "flxMain",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

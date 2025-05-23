@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "44dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_margin_": [
         6,
@@ -24,8 +24,8 @@
     "_skin_": "se564feee25f49beb9998dd573772668",
     "_text_": "Already have Account",
     "_top_": {
-        "type": "number",
-        "value": "20"
+        "type": "string",
+        "value": "6.095286328752865%"
     },
     "_width_": {
         "type": "string",
@@ -43,13 +43,13 @@
     },
     "displaytext": true,
     "id": "alreadyHaveActBtn",
-    "ide_onClick": "AS_Button_fc7f636c01b2454d963bc50d18b3df9b",
+    "ide_onClick": "AS_Button_j39a24b1511f4df8a7247ce8159d78ca",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "i1e25e5cf1874c2b9bec43a6a2928125",
     "name": "kony.ui.Button",
-    "parent": "fieldContainer",
+    "parent": "flxPersonalInfo",
     "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

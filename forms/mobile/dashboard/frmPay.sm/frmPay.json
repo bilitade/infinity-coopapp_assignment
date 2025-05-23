@@ -41,9 +41,9 @@
     "children": [
         "AppBar",
         "Drawer",
-        "fsPayContainer",
+        "fscPay",
         "BottomNavbar",
-        "bottomBg"
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {

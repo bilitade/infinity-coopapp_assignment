@@ -50,7 +50,7 @@
     "isvisible": true,
     "kuid": "b48196cd8cd7404285e1b468e7b109ac",
     "name": "kony.ui.Button",
-    "parent": "notification",
+    "parent": "flxNotification",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

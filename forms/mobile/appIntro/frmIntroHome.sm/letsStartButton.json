@@ -3,7 +3,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "200dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -39,7 +39,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "focusskin": "s07c7377f3fb491dbacf653a48b561a3",
     "id": "letsStartButton",
     "ide_onClick": "AS_Button_f94727dfe07d48798cf634ece1313603",
     "info": null,

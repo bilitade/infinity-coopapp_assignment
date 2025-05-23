@@ -1,0 +1,19 @@
+{
+    "AS_TextField_f18184e6853a4b24941c185bd76fef16": {
+        "id": "AS_TextField_f18184e6853a4b24941c185bd76fef16",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_h1e134a2ddf3423ea56673c68f8272a1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (!this.fullData) {\n  this.fullData = this.view.txnSegement.data;\n}\n\nvar searchText = this.view.searchBox.text.toLowerCase();\n\nif (searchText.trim() === \"\") {\n  this.view.txnSegement.setData(this.fullData);\n} else {\n  var filteredData = this.fullData.filter(function(item) {\n    return item.txnTitleLabel.toLowerCase().includes(searchText) ||\n           item.amount.includes(searchText);\n  });\n  this.view.txnSegement.setData(filteredData);\n}\n"
+        }]
+    }
+}

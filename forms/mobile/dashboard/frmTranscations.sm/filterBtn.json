@@ -25,7 +25,7 @@
         "type": "string",
         "value": "10dp"
     },
-    "_skin_": "sbd09538d1ae44ca9b40321ad5487bc0",
+    "_skin_": "sfb74ce5c5af456ab017a49d8567b7d9",
     "_text_": "Filter",
     "_top_": {
         "type": "string",
@@ -50,7 +50,7 @@
     "isvisible": true,
     "kuid": "dd0fbc0b5f3f48abb37a9ec172747fa7",
     "name": "kony.ui.Button",
-    "parent": "filterContainer",
+    "parent": "flxFilters",
     "pf": "frmTranscations",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

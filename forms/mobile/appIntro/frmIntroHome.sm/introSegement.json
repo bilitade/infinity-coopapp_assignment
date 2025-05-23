@@ -3,25 +3,25 @@
     "DNDConfig": null,
     "_data_": [
         {
-            "heroImage": {
+            "imgIntro": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "bannerwelcome.png"
             }
         },
         {
-            "heroImage": {
+            "imgIntro": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "bannerseamless.png"
             }
         },
         {
-            "heroImage": {
+            "imgIntro": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "bannersecurity.png"
             }
         },
         {
-            "heroImage": {
+            "imgIntro": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "bannerlaunch.png"
             }
@@ -51,7 +51,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "5%"
+        "value": "1%"
     },
     "_width_": {
         "type": "string",
@@ -65,11 +65,11 @@
     },
     "containerweight": 100,
     "counter": "03",
-    "focusedindex": 0,
+    "focusedindex": 3,
     "focuseditem": {
-        "heroImage": {
+        "imgIntro": {
             "@class": "com.viz.ide.model.segment.ImageSegmentData",
-            "src": "bannerwelcome.png"
+            "src": "bannerlaunch.png"
         }
     },
     "generatedtemplate": "i6aa64fa923541a89011d0bec28a34cf",
@@ -113,19 +113,33 @@
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionheaderskin": "s39ba5c6288545b981c71ec655a8078c",
-    "selectedRows": null,
+    "selectedRows": [
+        [
+            0,
+            3
+        ]
+    ],
     "selectedState": false,
     "selectedindex": [
         0,
-        0
+        3
     ],
-    "selectedindices": null,
-    "selecteditems": {
-        "heroImage": {
-            "@class": "com.viz.ide.model.segment.ImageSegmentData",
-            "src": "bannerwelcome.png"
+    "selectedindices": [
+        [
+            0,
+            [
+                3
+            ]
+        ]
+    ],
+    "selecteditems": [
+        {
+            "imgIntro": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bannerlaunch.png"
+            }
         }
-    },
+    ],
     "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "selectionbehaviorconfig": null,
@@ -134,7 +148,7 @@
     "separatorthickness": 1,
     "showscrollbars": true,
     "swipeContext": {
-        "currentPage": 0,
+        "currentPage": 3,
         "imageWidth": 1074,
         "widthRatio": 0
     },
@@ -143,8 +157,8 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "cardItemContainer": "cardItemContainer",
-        "heroImage": "heroImage",
-        "introCardContainer": "introCardContainer"
+        "flxIntro": "flxIntro",
+        "flxIntroRowTemplate": "flxIntroRowTemplate",
+        "imgIntro": "imgIntro"
     }
 }

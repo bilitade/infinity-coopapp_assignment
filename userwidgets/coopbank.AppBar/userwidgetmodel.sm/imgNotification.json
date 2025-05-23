@@ -49,7 +49,7 @@
     "isvisible": true,
     "kuid": "b1910d980eb34d69b41dbb8f5158866f",
     "name": "kony.ui.Image2",
-    "parent": "notification",
+    "parent": "flxNotification",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

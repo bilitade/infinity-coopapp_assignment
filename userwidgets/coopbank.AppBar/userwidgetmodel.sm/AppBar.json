@@ -39,9 +39,9 @@
         "value": "50%"
     },
     "children": [
-        "menu",
+        "flxBtnMenu",
         "imgAppLogo",
-        "icons"
+        "flxToolBars"
     ],
     "clipbounds": false,
     "containerweight": 100,

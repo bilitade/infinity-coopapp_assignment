@@ -49,7 +49,7 @@
     "onslide": null,
     "osPlatform": "android",
     "osVersion": "iOS7",
-    "parent": "rememberContainer",
+    "parent": "flxRememberMe",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

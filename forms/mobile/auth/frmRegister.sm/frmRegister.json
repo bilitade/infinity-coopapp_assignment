@@ -33,11 +33,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "stepOneContainer",
-        "stepTwoContainer",
-        "stepThreeContainer",
-        "stepFourContainer",
-        "stepFiveContainer"
+        "flxRegister"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -104,7 +100,7 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "spaan",
+    "platform": "android",
     "prevDevice": "iPhone13",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,

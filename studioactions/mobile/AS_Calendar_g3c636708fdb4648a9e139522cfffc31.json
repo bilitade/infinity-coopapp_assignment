@@ -1,0 +1,19 @@
+{
+    "AS_Calendar_g3c636708fdb4648a9e139522cfffc31": {
+        "id": "AS_Calendar_g3c636708fdb4648a9e139522cfffc31",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_he4048e410404da5a9fc5b06567cdf69",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (!this.fullData) {\n  this.fullData = this.view.txnSegement.data;\n}\n\nvar selectedDate = this.view.datepicker.date.replace(/\\//g, '-');\n\nvar filteredData = this.fullData.filter(function(item) {\n  return item.txnDate === selectedDate;\n});\n\nthis.view.txnSegement.setData(filteredData);"
+        }]
+    }
+}

@@ -21,6 +21,7 @@
         1,
         0
     ],
+    "_skin_": "s22213172f1544a39fa3dca582ed4e8c",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -38,8 +39,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "LoginFormContainer",
-        "infinityLogo"
+        "flxLogin"
     ],
     "containerweight": 100,
     "controllerInfo": {

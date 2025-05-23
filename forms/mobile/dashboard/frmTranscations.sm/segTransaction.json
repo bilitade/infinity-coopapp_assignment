@@ -1,0 +1,309 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-1,000"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-04-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Transfer"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2,000"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "crediticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wallet Transfer"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-1,000"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Transfer"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-50"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TopUp"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-500"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electric Utility"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "20,000"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "crediticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Salary"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-800"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Loan Repayment"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-35"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "debiticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Onekoo Coffee"
+            }
+        },
+        {
+            "amount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5,000"
+            },
+            "currency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ETB"
+            },
+            "txnDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2025-03-01"
+            },
+            "txnIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "crediticon.png"
+            },
+            "txnTitleLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Transfer"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "392dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "9.354395263797635%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "alternaterowskin": "s66d3cd24eb04e9d919b61648c1db1f3",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "08",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTransaction",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "beeb5eb751d94939aec7409e8e37c8d7",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxTransaction",
+    "pf": "frmTranscations",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "g283cb5510de4e098c672fafd8c9800b",
+    "rowcounter": 8,
+    "rowfocusskin": "s9c679f2c1af4d85bb39f6cf2b14e932",
+    "rowskin": "safc9697da51439a96f2591effc0f544",
+    "rowtemplate": "transactionRowContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "amount": "amount",
+        "currency": "currency",
+        "flxTranscationRowTemplate": "flxTranscationRowTemplate",
+        "txnAmountContainer": "txnAmountContainer",
+        "txnDate": "txnDate",
+        "txnIcon": "txnIcon",
+        "txnTitleContainer": "txnTitleContainer",
+        "txnTitleLabel": "txnTitleLabel"
+    }
+}

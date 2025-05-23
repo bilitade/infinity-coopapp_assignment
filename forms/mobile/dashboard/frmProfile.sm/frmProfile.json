@@ -41,9 +41,9 @@
     "children": [
         "AppBar",
         "Drawer",
-        "fsProfileContainer",
+        "fscProfile",
         "BottomNavbar",
-        "bottomBg"
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {

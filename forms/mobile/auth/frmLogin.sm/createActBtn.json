@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "se564feee25f49beb9998dd573772668",
+    "_skin_": "sfb74ce5c5af456ab017a49d8567b7d9",
     "_text_": "create Account",
     "_top_": {
         "type": "string",
@@ -49,7 +49,7 @@
     "isvisible": true,
     "kuid": "b2bd3516c99b470592b96389db98f3f2",
     "name": "kony.ui.Button",
-    "parent": "dontHaveAccountContainer",
+    "parent": "flxDontHaveAccount",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

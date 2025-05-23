@@ -45,7 +45,7 @@
     "isvisible": true,
     "kuid": "jc23adb48f28406c937ccfd1cdafc4f3",
     "name": "kony.ui.Image2",
-    "parent": "menu",
+    "parent": "flxBtnMenu",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

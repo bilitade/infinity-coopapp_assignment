@@ -1,0 +1,16 @@
+{
+    "AS_Button_b4b35a9058e84f719f379cba8459d21c": {
+        "id": "AS_Button_b4b35a9058e84f719f379cba8459d21c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_aeb7fb302efd4b08836d37d23d196ddf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nthis.view.flxPersonalInfo.isVisible=true\nthis.view.flxPasswordSet.isVisible=false;"
+        }]
+    }
+}

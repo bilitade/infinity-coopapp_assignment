@@ -40,10 +40,10 @@
     "canUpdateUI": true,
     "children": [
         "AppBar",
-        "dashBoardContainer",
+        "flxHome",
         "Drawer",
         "BottomNavbar",
-        "bottomBg"
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {

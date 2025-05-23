@@ -42,7 +42,7 @@
     "isvisible": true,
     "kuid": "a7fd672fa4d04c58a0c4a5bc2ac57d8b",
     "name": "kony.ui.Button",
-    "parent": "mode",
+    "parent": "flxMode",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -1,0 +1,24 @@
+{
+    "AS_Button_h1a9a1cdcbe04b5d8f0950d5440e3591": {
+        "id": "AS_Button_h1a9a1cdcbe04b5d8f0950d5440e3591",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f227454e14484ab39bd57d00afe9681f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "friendlyName": "frmHome",
+            "formKUID": "aa497a3d84844418a43e75571242531c",
+            "projectName": "CoopApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "dashboard",
+            "isCustomInput": false
+        }]
+    }
+}

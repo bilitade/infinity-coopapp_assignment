@@ -209,10 +209,10 @@
             "balanceCurrency": "balanceCurrency",
             "balanceLabel": "balanceLabel",
             "cardImage": "cardImage",
-            "cardInfoContainer": "cardInfoContainer",
-            "cardRowContainer": "cardRowContainer",
             "currency": "currency",
-            "customerName": "customerName"
+            "customerName": "customerName",
+            "flxCardInfo": "flxCardInfo",
+            "flxCardRowTemplate": "flxCardRowTemplate"
         }
     },
     "name": "kony.ui.SegmentedUI2",
@@ -235,7 +235,6 @@
     "rowtemplate": null,
     "screenlevelwidget": false,
     "seccounter": 0,
-    "sectionheaderskin": "sedb34bf859d4880aec92b4c25e571ba",
     "selectedRows": null,
     "selectedState": false,
     "selectedindex": null,

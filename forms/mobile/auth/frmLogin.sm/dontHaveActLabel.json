@@ -21,7 +21,6 @@
         0,
         0
     ],
-    "_skin_": "s9b89993788e4635aa348070bed3a3ee",
     "_text_": "Dont Have Account?",
     "_width_": {
         "type": "ref",
@@ -57,7 +56,7 @@
     "isvisible": true,
     "kuid": "i07111aa33774ffca56cda4394d8915b",
     "name": "kony.ui.Label",
-    "parent": "dontHaveAccountContainer",
+    "parent": "flxDontHaveAccount",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

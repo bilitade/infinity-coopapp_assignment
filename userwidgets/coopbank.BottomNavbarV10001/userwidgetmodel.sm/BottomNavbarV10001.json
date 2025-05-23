@@ -43,11 +43,11 @@
         "value": "50%"
     },
     "children": [
-        "navHomeContainer",
-        "navPayContainer",
-        "navScanContainer",
-        "navAppsContainer",
-        "navProfileContainer"
+        "flxHome",
+        "flxPay",
+        "flxScan",
+        "flxApps",
+        "flxProfile"
     ],
     "clipbounds": false,
     "containerweight": 100,

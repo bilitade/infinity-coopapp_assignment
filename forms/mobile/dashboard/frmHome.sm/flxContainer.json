@@ -62,7 +62,7 @@
     "layouttype": 2,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
-    "parent": "dashBoardContainer",
+    "parent": "flxHome",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

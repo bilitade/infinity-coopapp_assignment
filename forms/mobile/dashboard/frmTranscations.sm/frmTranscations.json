@@ -39,11 +39,11 @@
     },
     "canUpdateUI": true,
     "children": [
-        "transactionFormContainwr",
         "AppBar",
         "Drawer",
+        "flxTransaction",
         "BottomNavbar",
-        "bottomBg"
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {

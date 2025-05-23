@@ -51,7 +51,7 @@
     "isvisible": true,
     "kuid": "b2c6a4fa384d4eac93d69b2fb3c8c1c8",
     "name": "kony.ui.Button",
-    "parent": "fsProfileContainer",
+    "parent": "fscProfile",
     "pf": "frmProfile",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

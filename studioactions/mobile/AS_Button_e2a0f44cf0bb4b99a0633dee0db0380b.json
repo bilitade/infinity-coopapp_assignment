@@ -1,0 +1,16 @@
+{
+    "AS_Button_e2a0f44cf0bb4b99a0633dee0db0380b": {
+        "id": "AS_Button_e2a0f44cf0bb4b99a0633dee0db0380b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_eb3729ebf3c64ad68084347b25a023c6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nthis.view.stepOneContainer.isVisible=false;\nthis.view.stepTwoContainer.isVisible=true;"
+        }]
+    }
+}

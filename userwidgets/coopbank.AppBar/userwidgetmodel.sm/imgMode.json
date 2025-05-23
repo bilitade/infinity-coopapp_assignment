@@ -49,7 +49,7 @@
     "isvisible": true,
     "kuid": "abf09a3c02694aee8844386d924ba91e",
     "name": "kony.ui.Image2",
-    "parent": "mode",
+    "parent": "flxMode",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "133.14%"
+        "value": "130%"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "-31dp"
     },
     "_margin_": [
         0,
@@ -23,17 +23,21 @@
         0
     ],
     "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
-    "_src_": "infinity.png",
+    "_src_": "infinitybg.png",
     "_top_": {
         "type": "string",
-        "value": "-146dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "1020%"
+        "value": "130%"
     },
     "canUpdateUI": true,
     "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
         "type": "string",
         "value": "50%"
     },
