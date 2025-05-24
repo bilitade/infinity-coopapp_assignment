@@ -53,5 +53,6 @@
     "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "I18N.frmRegister.LblAlreadyHaveAccount",
     "wType": "Button"
 }

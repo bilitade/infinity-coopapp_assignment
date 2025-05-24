@@ -1,12 +1,10 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
+    "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "93.87%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0"
+        "value": "7.18%"
     },
     "_margin_": [
         0,
@@ -14,7 +12,7 @@
         0,
         0
     ],
-    "_orientation_": 6,
+    "_orientation_": 1,
     "_padding_": [
         0,
         0,
@@ -25,37 +23,32 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "50dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "100.93%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "segIntro",
-        "btnLetsStart"
-    ],
-    "clipbounds": true,
-    "containerweight": 100,
-    "enablescrolling": true,
-    "id": "flxIntro",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 0,
+    "data": {},
+    "id": "Toolbar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fad5bb37d6b847fe98fdfa431e1c1009",
-    "layouttype": 4,
-    "name": "kony.ui.FlexContainer",
+    "kuid": "geb4122ee9e7498ab4e7b85ce32f122b",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
     "parent": "frmIntroHome",
     "pf": "frmIntroHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 2
+    "sourceUserWidget": "f958ae0d00f84335a1a063173bd5df72",
+    "wType": "UserWidgetInstance",
+    "zindex": 3
 }

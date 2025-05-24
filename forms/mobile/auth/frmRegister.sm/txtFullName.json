@@ -52,6 +52,7 @@
     "name": "kony.ui.TextBox2",
     "parent": "flxPersonalInfo",
     "pf": "frmRegister",
+    "placeholderi18n": "I18n.frmRegister.LblFullName",
     "placeholderskin": "s5c3979419d147e5b1c0090fcd4a71b2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

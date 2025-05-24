@@ -1,0 +1,17 @@
+{
+    "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7": {
+        "id": "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_d90c0aaa5be54f1e9ab41dcfcff6d3ba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\n    var currentTheme = kony.theme.getCurrentTheme();\n    var newTheme = (currentTheme === \"lightTheme\") ? \"darkTheme\" : \"lightTheme\";\n\n    kony.theme.setCurrentTheme(newTheme,\n        function() {\n            kony.print(\"Theme successfully changed to \" + newTheme);\n        },\n        function() {\n            kony.print(\"Failed to change theme.\");\n        }\n    );\n\n",
+            "parentId": null
+        }]
+    }
+}

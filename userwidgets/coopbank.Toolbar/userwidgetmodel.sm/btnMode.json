@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "32dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0%"
     },
     "_margin_": [
         6,
@@ -21,36 +21,40 @@
         0,
         0
     ],
-    "_skin_": "s49eed2ad4d8439cbbb86a36595cc673",
-    "_text_": "Let's Start",
+    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "20dp"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "200dp"
+        "value": "32dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "49.95%"
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s07c7377f3fb491dbacf653a48b561a3",
-    "id": "btnLetsStart",
-    "ide_onClick": "AS_Button_f94727dfe07d48798cf634ece1313603",
+    "focusskin": "s7984871127c45fd9eafa511324533b6",
+    "id": "btnMode",
+    "ide_onClick": "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h4b836faa6e244fca7cc8dcaf61b300c",
+    "kuid": "d7366468965443dbabc875bbbd172f20",
     "name": "kony.ui.Button",
-    "parent": "flxIntro",
-    "pf": "frmIntroHome",
+    "parent": "flxMode",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "texti18n": "I18n.frmIntro.BtnLetsStart",
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 2
 }

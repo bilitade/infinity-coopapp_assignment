@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Slect Language",
+    "_skin_": "sd31a5faa7194462a05fc93c3d94e2c1",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.48%"
+    },
+    "android": {
+        "nativeListFieldFocusSkin": "s52b01afb6864e9a91c4b8494fe82714",
+        "nativeListFieldSkin": "s64c2e8b5604412e8aae9fee60a59153",
+        "psp": {
+            "popupIcon": "icon_lang.png"
+        },
+        "viewType": 4
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "down_arrow.png",
+    "focusskin": null,
+    "groupcells": false,
+    "id": "lstLang",
+    "ide_onSelection": "AS_ListBox_d86835e6cf6c46198aabb66216f9b1d8",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ebd7864d56524d68b81224a0ff619663",
+    "masterdata": [
+        [
+            "langEn",
+            "English"
+        ],
+        [
+            "langAm",
+            "አማርኛ"
+        ],
+        [
+            "langOro",
+            "Oromifa"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxLang",
+    "pf": "userwidgetmodel",
+    "popupicon": "icon_lang.png",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "langEn",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "langEn",
+        "English"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox"
+}

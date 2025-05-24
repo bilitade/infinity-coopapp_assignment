@@ -1,0 +1,126 @@
+{
+    "keys": [
+        "I18N.frmRegister.LblAlreadyHaveAccount",
+        "I18n.LblEmail",
+        "I18n.LblPassword",
+        "I18n.frmIntro.BtnLetsStart",
+        "I18n.frmIntro.LblWelcome",
+        "I18n.frmLogin.BtnLogin",
+        "I18n.frmLogin.LblForgotPassword",
+        "I18n.frmLogin.LblLogin",
+        "I18n.frmLogin.LblNoAccount",
+        "I18n.frmRegister.BtnRegister",
+        "I18n.frmRegister.LblConfirmPassword",
+        "I18n.frmRegister.LblEmail",
+        "I18n.frmRegister.LblFullName",
+        "I18n.frmRegister.LblPassword",
+        "I18n.frmRegister.LblRegister"
+    ],
+    "locales": {
+        "am_ET": {
+            "country": "",
+            "i18nStrings": {
+                "I18N.frmRegister.LblAlreadyHaveAccount": "መለያ አለዎት?",
+                "I18n.LblEmail": "ኢሜይል",
+                "I18n.LblPassword": "የይለፍ ቃል",
+                "I18n.frmIntro.BtnLetsStart": "እንጀምር",
+                "I18n.frmIntro.LblWelcome": "እንኳን ደህና መጣህ",
+                "I18n.frmLogin.BtnLogin": "ግባ",
+                "I18n.frmLogin.LblForgotPassword": "የይለፍ ቃል ረሳሁ?",
+                "I18n.frmLogin.LblLogin": "ግባ",
+                "I18n.frmLogin.LblNoAccount": "መለያ የለህም?",
+                "I18n.frmRegister.BtnRegister": "መመዝገብ",
+                "I18n.frmRegister.LblConfirmPassword": "የይለፍ ቃል እንደገና ያስገቡ",
+                "I18n.frmRegister.LblEmail": "ኢሜይል",
+                "I18n.frmRegister.LblFullName": "ሙሉ ስም",
+                "I18n.frmRegister.LblPassword": "የይለፍ ቃል",
+                "I18n.frmRegister.LblRegister": "የግል መረጃ"
+            },
+            "isCustomLocale": true,
+            "isSelected": true,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "en_NT": {
+            "country": "",
+            "i18nStrings": {
+                "I18N.frmRegister.LblAlreadyHaveAccount": "Already have an account?",
+                "I18n.LblEmail": "Email",
+                "I18n.LblPassword": "Password",
+                "I18n.frmIntro.BtnLetsStart": "Let's Start",
+                "I18n.frmIntro.LblWelcome": "Welcome",
+                "I18n.frmLogin.BtnLogin": "Login",
+                "I18n.frmLogin.LblForgotPassword": "Forgot Password?",
+                "I18n.frmLogin.LblLogin": "Login",
+                "I18n.frmLogin.LblNoAccount": "Don't have an account?",
+                "I18n.frmRegister.BtnRegister": "Register",
+                "I18n.frmRegister.LblConfirmPassword": "Confirm Password",
+                "I18n.frmRegister.LblEmail": "",
+                "I18n.frmRegister.LblFullName": "Full Name",
+                "I18n.frmRegister.LblPassword": "",
+                "I18n.frmRegister.LblRegister": "Personal Information"
+            },
+            "isCustomLocale": true,
+            "isSelected": true,
+            "language": ""
+        },
+        "en_US": {
+            "i18nStrings": {
+                "I18N.frmRegister.LblAlreadyHaveAccount": "Already have an account?",
+                "I18n.LblEmail": "Email",
+                "I18n.LblPassword": "Password",
+                "I18n.frmIntro.BtnLetsStart": "Let's Start",
+                "I18n.frmIntro.LblWelcome": "Welcome",
+                "I18n.frmLogin.BtnLogin": "Login",
+                "I18n.frmLogin.LblForgotPassword": "Forgot Password?",
+                "I18n.frmLogin.LblLogin": "Login",
+                "I18n.frmLogin.LblNoAccount": "Don't have an account?",
+                "I18n.frmRegister.BtnRegister": "Register",
+                "I18n.frmRegister.LblConfirmPassword": "Confirm Password",
+                "I18n.frmRegister.LblEmail": "Email",
+                "I18n.frmRegister.LblFullName": "Full Name",
+                "I18n.frmRegister.LblPassword": "Password",
+                "I18n.frmRegister.LblRegister": "Personal Information"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "oro_ET": {
+            "country": "",
+            "i18nStrings": {
+                "I18N.frmRegister.LblAlreadyHaveAccount": "Galmee qabduu?",
+                "I18n.LblEmail": "Imeelii",
+                "I18n.LblPassword": "Ecciti",
+                "I18n.frmIntro.BtnLetsStart": " Haa Jalqabnu",
+                "I18n.frmIntro.LblWelcome": "Baga Nagaan Dhuftan",
+                "I18n.frmLogin.BtnLogin": "Seeni",
+                "I18n.frmLogin.LblForgotPassword": "Ecciti irraanfattee?",
+                "I18n.frmLogin.LblLogin": "Seeni",
+                "I18n.frmLogin.LblNoAccount": "Galmee hin qabdu?",
+                "I18n.frmRegister.BtnRegister": "Galmaa'i",
+                "I18n.frmRegister.LblConfirmPassword": "Ecciti mirkaneessi",
+                "I18n.frmRegister.LblEmail": "Imeelii",
+                "I18n.frmRegister.LblFullName": "Maqaa Guutuu",
+                "I18n.frmRegister.LblPassword": "Ecciti",
+                "I18n.frmRegister.LblRegister": "Odeeffannoo dhuunfaa"
+            },
+            "isCustomLocale": true,
+            "isSelected": true,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

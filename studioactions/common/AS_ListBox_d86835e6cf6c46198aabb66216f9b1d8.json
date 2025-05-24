@@ -1,0 +1,22 @@
+{
+    "AS_ListBox_d86835e6cf6c46198aabb66216f9b1d8": {
+        "id": "AS_ListBox_d86835e6cf6c46198aabb66216f9b1d8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "bd70f79a915e45738637f621212c308a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_fec05d87e7094339a87e6a5d2454218c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var localeMap = {\n    \"langEn\": \"en_NT\",\n    \"langAm\": \"am_ET\",\n    \"langOro\": \"oro_ET\"\n};\n\nvar selectedKey = this.view.lstLang.selectedKey;\nvar locale = localeMap[selectedKey];\n\nif (locale) {\n    kony.i18n.setCurrentLocaleAsync(\n        locale,\n        function() {\n            var currentForm = kony.application.getCurrentForm();\n            var navigation = new kony.mvc.Navigation(currentForm.id);\n            navigation.navigate();\n        },\n        function(error) {\n            alert(\"Failed to change language: \" + JSON.stringify(error));\n        }\n    );\n} else {\n    alert(\"Selected language is not supported.\");\n}\n",
+            "parentId": null
+        }]
+    }
+}

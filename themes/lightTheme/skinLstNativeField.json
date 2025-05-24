@@ -14,7 +14,7 @@
   "border_color": "fcf8f87a",
   "border_style": "plain",
   "border_type": 0,
-  "border_width": 1,
+  "border_width": 0,
   "constants": {
     "background_color": {
       "key": "color",

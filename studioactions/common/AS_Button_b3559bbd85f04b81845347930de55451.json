@@ -1,0 +1,22 @@
+{
+    "AS_Button_b3559bbd85f04b81845347930de55451": {
+        "id": "AS_Button_b3559bbd85f04b81845347930de55451",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__dc6b450234c24b93a0ba7780323ddd3b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleDrawer",
+            "display": "toggleDrawer",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -39,6 +39,7 @@
     },
     "canUpdateUI": true,
     "children": [
+        "Toolbar",
         "flxIntro",
         "imgInfinityLogo"
     ],
@@ -49,7 +50,7 @@
             "name": "frmIntroHomeController"
         }
     },
-    "currentLocale": "default",
+    "currentLocale": "oro_ET",
     "desktopweb": {
         "needAppMenu": false
     },
