@@ -35,8 +35,9 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "focusskin": "s7984871127c45fd9eafa511324533b6",
     "id": "btnMode",
+    "ide_onClick": "AS_Button_h3e9659df58f4b5894cdb6d95abd3463",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
@@ -46,5 +47,6 @@
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 2
 }
