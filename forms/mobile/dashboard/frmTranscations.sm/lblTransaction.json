@@ -17,6 +17,7 @@
         0,
         0
     ],
+    "_skin_": "sbc008835dd448b48347d9e44b06bdb0",
     "_text_": "Transactions",
     "_top_": {
         "type": "string",
@@ -36,7 +37,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 5,

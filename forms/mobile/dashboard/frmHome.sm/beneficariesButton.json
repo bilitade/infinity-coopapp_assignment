@@ -39,14 +39,16 @@
     },
     "displaytext": true,
     "id": "beneficariesButton",
+    "ide_onClick": "AS_Button_g1308abfcd0a4dd1b13a20076572f243",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "jdf14dbbe3f446fab36037c4f13f2fc2",
     "name": "kony.ui.Button",
-    "parent": "beneficariesBtnContainer",
+    "parent": "flxBtnBeneficaries",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 2
 }

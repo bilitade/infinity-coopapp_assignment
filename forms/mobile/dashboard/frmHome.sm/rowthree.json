@@ -39,9 +39,9 @@
         "value": "50%"
     },
     "children": [
-        "supportContainer",
-        "beneficariesContainer",
-        "chatContainer"
+        "flxSupport",
+        "flxBeneficaries",
+        "flxChat"
     ],
     "clipbounds": false,
     "containerweight": 100,

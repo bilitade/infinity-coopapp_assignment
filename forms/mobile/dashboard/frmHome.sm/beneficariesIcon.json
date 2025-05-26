@@ -45,7 +45,7 @@
     "isvisible": true,
     "kuid": "i5915531f8bd499d96b3b0f05aab8be7",
     "name": "kony.ui.Image2",
-    "parent": "beneficariesBtnContainer",
+    "parent": "flxBtnBeneficaries",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

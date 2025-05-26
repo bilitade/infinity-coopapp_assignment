@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "767dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -22,6 +22,7 @@
         0
     ],
     "_percent_": true,
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
         "value": "0"
@@ -55,5 +56,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

@@ -39,9 +39,9 @@
         "value": "50%"
     },
     "children": [
-        "accountContainer",
-        "transferContainer",
-        "topupContainer"
+        "flxAccounts",
+        "flxTransfer",
+        "flxTopUp"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -8,11 +8,11 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "96.00%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "-2dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -28,7 +28,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd9a568f4aee4debbf8fd6d9794c8ea4",
+    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -40,7 +40,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": false,
-    "kuid": "db83c0e78ab14bbc8287bc1ad4895c8d",
+    "kuid": "c6d46894b19a46e1ab81a04d62fc19f3",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
     "parent": "frmPay",
@@ -50,5 +50,5 @@
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "c33472643fdf4595ac23c21ebccfc6a1",
     "wType": "UserWidgetInstance",
-    "zindex": 10
+    "zindex": 5
 }

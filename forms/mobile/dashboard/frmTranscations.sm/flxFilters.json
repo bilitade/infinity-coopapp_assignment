@@ -22,10 +22,10 @@
         "type": "string",
         "value": "0"
     },
-    "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
+    "_skin_": "s815c07eae6c46cc8e75ebf531f7115d",
     "_top_": {
         "type": "string",
-        "value": "9.354395263797635%"
+        "value": "4.118446365678449%"
     },
     "_width_": {
         "type": "string",
@@ -39,9 +39,7 @@
         "value": "50%"
     },
     "children": [
-        "searchBox",
-        "datePicker",
-        "filterBtn"
+        "searchBox"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -61,5 +59,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

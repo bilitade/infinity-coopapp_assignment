@@ -8,7 +8,7 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__ide_onClick_fe8b83277b4f46589683d46e840983b3",
+            "id": "NAVIGATE_TO_FORM__cbb3cb4388d1460c9876f2d34ab0b86d",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmLogin",
             "friendlyName": "frmLogin",

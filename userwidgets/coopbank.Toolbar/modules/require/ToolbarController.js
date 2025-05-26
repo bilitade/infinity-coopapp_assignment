@@ -8,6 +8,26 @@ define(function() {
     initGettersSetters: function() {
 
     }, 
+    preshow: function(){
+      this.view.lstLang.masterData=[
+        
+          ["langEn", "English"],
+         ["langAm", "አማርኛ"],
+         ["langOro", "Oromiffa"]]
+          
+       var localToKey = {
+          "en_US": "langEn",
+          "am_ET": "langAm",
+          "om_ET": "langOro"
+       }
+          
+      var currentLocale= kony.i18n.getCurrentLocale();
+      this.view.lstLang.selectedKey=localToKey[currentLocale];
+    },
+    
+    
+    
+    
     changeTheme: function(){
 
 

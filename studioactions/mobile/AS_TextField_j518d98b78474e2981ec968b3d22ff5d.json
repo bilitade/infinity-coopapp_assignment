@@ -1,0 +1,31 @@
+{
+    "AS_TextField_j518d98b78474e2981ec968b3d22ff5d": {
+        "id": "AS_TextField_j518d98b78474e2981ec968b3d22ff5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmTranscations",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j9a26c9fe73f446cbe34957f0f57b47d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__be2e56c61a654c2bad27f559f18009cf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onsearch",
+            "display": "onsearch",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

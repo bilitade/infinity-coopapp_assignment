@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "560dp"
+        "value": "565dp"
     },
     "_left_": {
         "type": "string",
@@ -25,7 +25,7 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "65dp"
     },
     "_width_": {
         "type": "string",
@@ -36,16 +36,12 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "46.93%"
+        "value": "49.81%"
     },
     "children": [
         "lblTransaction",
         "flxFilters",
-        "segTransaction"
+        "flxTranscationRow"
     ],
     "clipbounds": false,
     "containerweight": 100,

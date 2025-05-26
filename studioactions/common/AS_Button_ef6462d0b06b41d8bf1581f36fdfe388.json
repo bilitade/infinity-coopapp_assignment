@@ -1,0 +1,27 @@
+{
+    "AS_Button_ef6462d0b06b41d8bf1581f36fdfe388": {
+        "id": "AS_Button_ef6462d0b06b41d8bf1581f36fdfe388",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "uf72a9a9c5eb4d40b5bf86be2715931b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__h6560e055138495cb61fb350df3ddc41",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleDrawer",
+            "display": "toggleDrawer",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

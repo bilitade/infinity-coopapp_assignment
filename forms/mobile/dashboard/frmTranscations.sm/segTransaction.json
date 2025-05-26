@@ -203,7 +203,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "392dp"
+        "value": "396dp"
     },
     "_indicator_": "none",
     "_left_": {
@@ -225,7 +225,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "9.354395263797635%"
+        "value": "6.18%"
     },
     "_width_": {
         "type": "string",
@@ -268,7 +268,7 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "flxTransaction",
+    "parent": "flxTranscationRow",
     "pf": "frmTranscations",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

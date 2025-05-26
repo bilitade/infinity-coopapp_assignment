@@ -1,23 +1,8 @@
 /**
- * ------------------------------------------------------------------
- * Author: Bilisuma Tadesse
- * Date: 05/26/2025
- * Organization: Cooperative Bank of Oromia
- * 
- * Description:
- *   This module manages the registration form UI, validations, and 
- *   animated transitions between steps using Kony Visualizer's AMD pattern.
- * 
- *   - Localized strings (`kony.i18n.getLocalizedString`) are used for all 
- *     UI labels and placeholders to support **dynamic locale/language 
- *     switching at runtime without requiring form recreation**.
- * 
- *   - Animations are defined for fade-in and fade-out transitions to 
- *     provide a smooth user experience between steps of the registration form.
- * 
- *   - Form validation ensures that required fields are completed, email format is valid,
- *     and passwords match before proceeding to the next step or completing registration.
- * ------------------------------------------------------------------
+ * Author: Bilisuma Tadesse | Date: 05/26/2025
+ * Manages registration UI, validations, and step transitions.
+ * Supports runtime language switching using `kony.i18n`.
+ * Includes field validation and animated step changes.
  */
 
 
@@ -60,6 +45,7 @@ define({
     this.view.lblAddPwd.text=kony.i18n.getLocalizedString("I18n.frmRegister.LblSetPassword");
     this.view.btnPrev.text=kony.i18n.getLocalizedString("I18n.frmRegister.btnPrevious")
     this.view.btnRegister.text=kony.i18n.getLocalizedString("I18n.frmRegister.BtnRegister")
+    this.view.lblPersonalInfo.text=kony.i18n.getLocalizedString("I18n.frmRegister.LblRegister")
 
     this.view.radBtnGender.masterData = [
       ["M", kony.i18n.getLocalizedString("I18n.frmRegister.Gender.Male")],

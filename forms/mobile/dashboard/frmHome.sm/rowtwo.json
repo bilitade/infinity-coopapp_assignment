@@ -39,9 +39,9 @@
         "value": "50%"
     },
     "children": [
-        "locationContainer",
-        "cardhubContainer",
-        "transactionContainer"
+        "flxLocation",
+        "flxCardhub",
+        "flxTransaction"
     ],
     "clipbounds": false,
     "containerweight": 100,

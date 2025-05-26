@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "32dp"
+        "value": "20dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0"
     },
     "_margin_": [
         6,
@@ -29,27 +29,27 @@
     },
     "_width_": {
         "type": "string",
-        "value": "32dp"
+        "value": "20dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "centery": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "focusskin": "s7984871127c45fd9eafa511324533b6",
     "id": "btnMenu",
-    "ide_onClick": "AS_Button_be29435668e14810a00b1330aed77e43",
+    "ide_onClick": "AS_Button_ef6462d0b06b41d8bf1581f36fdfe388",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ef96b9431c8e469f88ee1a2ba00909cb",
+    "kuid": "e454c4d135ed4212849e7c045fd066d0",
     "name": "kony.ui.Button",
     "parent": "flxBtnMenu",
     "pf": "userwidgetmodel",

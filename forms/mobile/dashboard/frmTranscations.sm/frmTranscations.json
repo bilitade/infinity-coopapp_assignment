@@ -40,10 +40,10 @@
     "canUpdateUI": true,
     "children": [
         "AppBar",
-        "Drawer",
         "flxTransaction",
         "BottomNavbar",
-        "flxFooter"
+        "flxFooter",
+        "Drawer"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -61,6 +61,7 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmTransactions",
     "id": "frmTranscations",
+    "ide_preShow": "AS_Form_b81577f5a5cf439b89b0ee95732dd41b",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

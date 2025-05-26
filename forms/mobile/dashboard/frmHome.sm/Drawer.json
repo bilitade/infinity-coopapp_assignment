@@ -8,11 +8,11 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "96.00%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "-2dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -50,5 +50,5 @@
     "retainflowhorizontalalignment": false,
     "sourceUserWidget": "c33472643fdf4595ac23c21ebccfc6a1",
     "wType": "UserWidgetInstance",
-    "zindex": 4
+    "zindex": 5
 }

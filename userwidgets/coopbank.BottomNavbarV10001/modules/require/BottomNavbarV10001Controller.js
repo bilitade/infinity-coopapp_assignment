@@ -2,6 +2,15 @@ define(function() {
 
 	return {
       
+      preshow: function(){
+       this.view.lblNavApps.text=kony.i18n.getLocalizedString("I18n.BottomBar.LblApps");
+       this.view.lblNavHome.text=kony.i18n.getLocalizedString("I18n.BottomBar.LblHome");
+        this.view.lblNavPay.text=kony.i18n.getLocalizedString("I18n.BottomBar.LblPay");
+        this.view.lblNavProfile.text=kony.i18n.getLocalizedString("I18n.BottomBar.LblProfile");
+        this.view.lblNavScan.text=kony.i18n.getLocalizedString("I18n.BottomBar.LblScan"); 
+        
+      },
+      
        navigateHome: function (){
           var  navObj=new kony.mvc.Navigation("frmHome");
           navObj.navigate(null)

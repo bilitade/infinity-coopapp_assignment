@@ -34,7 +34,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxDrawer"
+        "flxDrawer",
+        "flxDrawerDismiss"
     ],
     "clipbounds": false,
     "containerweight": 100,

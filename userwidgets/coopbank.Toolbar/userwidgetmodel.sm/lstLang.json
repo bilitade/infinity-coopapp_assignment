@@ -59,32 +59,15 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ebd7864d56524d68b81224a0ff619663",
-    "masterdata": [
-        [
-            "langEn",
-            "English"
-        ],
-        [
-            "langAm",
-            "አማርኛ"
-        ],
-        [
-            "langOro",
-            "Oromifa"
-        ]
-    ],
+    "masterdata": [],
     "name": "kony.ui.ListBox",
     "parent": "flxLang",
     "pf": "userwidgetmodel",
     "popupicon": "icon_lang.png",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "selectedkey": "langEn",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "langEn",
-        "English"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
     "viewconfig": {

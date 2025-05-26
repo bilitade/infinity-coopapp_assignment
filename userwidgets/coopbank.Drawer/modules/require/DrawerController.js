@@ -7,6 +7,17 @@ define(function() {
 		//Logic for getters/setters of custom properties
 		initGettersSetters: function() {
 
-		}
+		},
+      
+      
+      
+      
+       dissmissDrawer: function(){
+         this.view.isVisible=false;
+         
+         
+         
+         
+       }
 	};
 });

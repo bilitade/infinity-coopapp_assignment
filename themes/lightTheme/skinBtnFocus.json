@@ -5,19 +5,13 @@
   "androidwearos": {
     "font_name": "default"
   },
-  "background_color": "e2e2e2ff",
+  "background_color": "e2e2e2ad",
   "bg_type": "one",
   "border_color": "ffffffff",
   "border_radius": 20,
   "border_style": "custom",
   "border_type": 0,
   "border_width": 1,
-  "constants": {
-    "background_color": {
-      "key": "color",
-      "value": "${themes.secondary90}"
-    }
-  },
   "desktopweb": {
     "font_name": "Helvetica"
   },

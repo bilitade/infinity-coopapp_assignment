@@ -1,6 +1,5 @@
 /**
- * Login Form Controller for Kony Visualizer
- * 
+
  * This controller handles:
  * - Setting localized text on the login form during pre-show
  * - Validating email and password fields

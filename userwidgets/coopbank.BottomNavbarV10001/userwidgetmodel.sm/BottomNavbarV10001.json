@@ -53,6 +53,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "BottomNavbarV10001",
+    "ide_preShow": "AS_FlexContainer_a9730200c3a64a6d845bb3c93cf86de8",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

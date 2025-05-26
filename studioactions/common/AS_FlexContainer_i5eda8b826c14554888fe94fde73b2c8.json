@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_i5eda8b826c14554888fe94fde73b2c8": {
+        "id": "AS_FlexContainer_i5eda8b826c14554888fe94fde73b2c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "ub98340390df42cb92026a63b6b31b4a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__df45e117aa36461ca6562ba3b93b7b1f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dissmissDrawer",
+            "display": "dissmissDrawer",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

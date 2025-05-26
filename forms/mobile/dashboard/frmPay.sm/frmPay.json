@@ -40,10 +40,10 @@
     "canUpdateUI": true,
     "children": [
         "AppBar",
-        "Drawer",
         "fscPay",
         "BottomNavbar",
-        "flxFooter"
+        "flxFooter",
+        "Drawer"
     ],
     "containerweight": 100,
     "controllerInfo": {
