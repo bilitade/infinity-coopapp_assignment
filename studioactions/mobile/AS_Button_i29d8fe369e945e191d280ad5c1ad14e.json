@@ -8,9 +8,15 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_ide_onClick_f7bd5e88a86748af8ed2c22dc1a22b12",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "\nthis.view.flxPersonalInfo.isVisible=false\nthis.view.flxPasswordSet.isVisible=true;"
+            "id": "INVOKE_FUNCTION__fc732e5256cd456e86947f7474536145",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onNext",
+            "display": "onNext",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

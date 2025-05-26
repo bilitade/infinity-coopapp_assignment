@@ -22,7 +22,7 @@
         0
     ],
     "_skin_": "s49eed2ad4d8439cbbb86a36595cc673",
-    "_text_": "Complete",
+    "_text_": "Register",
     "_top_": {
         "type": "string",
         "value": "9.566570924100168%"
@@ -40,7 +40,7 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "sfb74ce5c5af456ab017a49d8567b7d9",
-    "id": "btnComplete",
+    "id": "btnRegister",
     "ide_onClick": "AS_Button_c5995591cf644d6884af83b45e5a2d6b",
     "info": null,
     "iscustomlayout": false,

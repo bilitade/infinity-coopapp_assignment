@@ -37,6 +37,7 @@
     "displaytext": true,
     "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
     "id": "btnDismissAlert",
+    "ide_onClick": "AS_Button_a141c5977f0143fe82a68ba33a6c5761",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

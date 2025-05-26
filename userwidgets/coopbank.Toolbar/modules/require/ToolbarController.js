@@ -8,8 +8,6 @@ define(function() {
     initGettersSetters: function() {
 
     }, 
-
-
     changeTheme: function(){
 
 
@@ -61,7 +59,5 @@ define(function() {
         }
       );
     }
-
-
   };
 });
