@@ -47,6 +47,10 @@
     },
     "applyskinstopopup": true,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "disabledSkins": {},

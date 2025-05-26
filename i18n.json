@@ -1,5 +1,11 @@
 {
     "keys": [
+        "I18n.AccounCard.lblCurrency",
+        "I18n.AccountCard.lblCredit",
+        "I18n.AccountCard.lblCurrent",
+        "I18n.AccountCard.lblLoan",
+        "I18n.AccountCard.lblSavings",
+        "I18n.AccountCard.lblYourBalance",
         "I18n.BottomBar.LblApps",
         "I18n.BottomBar.LblHome",
         "I18n.BottomBar.LblPay",
@@ -61,6 +67,12 @@
         "am_ET": {
             "country": "",
             "i18nStrings": {
+                "I18n.AccounCard.lblCurrency": "ብር",
+                "I18n.AccountCard.lblCredit": "ክሬዲት ሂሳብ",
+                "I18n.AccountCard.lblCurrent": "ተንቀሳቃሽ ሂሳብ ",
+                "I18n.AccountCard.lblLoan": "ብድር ሂሳብ",
+                "I18n.AccountCard.lblSavings": "ቁጠባ ሂሳብ",
+                "I18n.AccountCard.lblYourBalance": "ቀሪ ገንዘብ",
                 "I18n.BottomBar.LblApps": "መተግበሪያዎች",
                 "I18n.BottomBar.LblHome": "መነሻ",
                 "I18n.BottomBar.LblPay": "ክፍያ",
@@ -129,6 +141,12 @@
         },
         "en_US": {
             "i18nStrings": {
+                "I18n.AccounCard.lblCurrency": "ETB",
+                "I18n.AccountCard.lblCredit": "Credit Account",
+                "I18n.AccountCard.lblCurrent": "Current Account",
+                "I18n.AccountCard.lblLoan": "Loan Account",
+                "I18n.AccountCard.lblSavings": "Savings Account",
+                "I18n.AccountCard.lblYourBalance": "Your Balance",
                 "I18n.BottomBar.LblApps": "Apps",
                 "I18n.BottomBar.LblHome": "Home",
                 "I18n.BottomBar.LblPay": "Pay",
@@ -197,6 +215,12 @@
         "om_ET": {
             "country": "",
             "i18nStrings": {
+                "I18n.AccounCard.lblCurrency": "Qarshii",
+                "I18n.AccountCard.lblCredit": "Herrega Kireediti",
+                "I18n.AccountCard.lblCurrent": "Herrega Socha'a",
+                "I18n.AccountCard.lblLoan": "Herrega Liqii",
+                "I18n.AccountCard.lblSavings": "Herrega Qusannaa",
+                "I18n.AccountCard.lblYourBalance": "Herrega Kee",
                 "I18n.BottomBar.LblApps": "Appoota",
                 "I18n.BottomBar.LblHome": "Bakka Jalqaba",
                 "I18n.BottomBar.LblPay": "Baasi",

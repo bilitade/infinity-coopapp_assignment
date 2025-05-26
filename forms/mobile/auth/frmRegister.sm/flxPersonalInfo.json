@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "80.46%"
+        "value": "81.90%"
     },
     "_left_": {
         "type": "string",
@@ -29,18 +29,18 @@
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "362dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "54.41%"
     },
     "children": [
         "lblPersonalInfo",

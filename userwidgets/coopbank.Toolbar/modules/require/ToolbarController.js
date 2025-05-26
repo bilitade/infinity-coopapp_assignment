@@ -74,8 +74,9 @@ define(function() {
            new kony.mvc.Navigation(currentFormId).
            navigate();  
         },
-        function() {
-           alert("Failed to change Language")
+        function( exception) {
+          
+           alert("Failed to change Language"+JSON.stringify(exception));
         }
       );
     }

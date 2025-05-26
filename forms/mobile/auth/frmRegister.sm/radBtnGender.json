@@ -17,8 +17,8 @@
     ],
     "_padding_": [
         0,
-        0,
-        0,
+        1,
+        1,
         0
     ],
     "_right_": {
@@ -64,6 +64,7 @@
     "kuid": "g16a07f277714f518d9aa8e45534100b",
     "masterdata": [],
     "name": "kony.ui.RadioButtonGroup",
+    "paddinginpixel": false,
     "parent": "flxGender",
     "pf": "frmRegister",
     "retaincontentalignment": false,

@@ -39,12 +39,13 @@
         "value": "50%"
     },
     "children": [
-        "accountCardSegement"
+        "segAccount"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "AccountCard",
+    "ide_preShow": "AS_FlexContainer_geabd39cb66e419bab3ff68bd0bfbd32",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
