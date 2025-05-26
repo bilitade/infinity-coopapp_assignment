@@ -1,6 +1,6 @@
 {
-    "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7": {
-        "id": "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7",
+    "AS_Button_d88d6dbf732447099d15f2408f8b6d11": {
+        "id": "AS_Button_d88d6dbf732447099d15f2408f8b6d11",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -8,12 +8,11 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION__j58f0797e5134bc99ef7792131cd274d",
+            "id": "INVOKE_FUNCTION__ide_onClick_ce92fd4591da4bc5bef805ae3c4d4b47",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "changeTheme",
             "display": "changeTheme",
             "inputparams": [],
-            "parentId": null,
             "callbackType": null,
             "disabled": null,
             "source": "controller"

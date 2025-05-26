@@ -42,11 +42,11 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.01%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 4,
@@ -54,7 +54,7 @@
     "focusskin": null,
     "groupcells": false,
     "id": "lstLang",
-    "ide_onSelection": "AS_ListBox_d86835e6cf6c46198aabb66216f9b1d8",
+    "ide_onSelection": "AS_ListBox_db002bce588b4a81870f3dabaf693e01",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

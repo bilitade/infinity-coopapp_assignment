@@ -1,0 +1,117 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendericon.png",
+    "__id": "frmRegister_calBirthDate",
+    "__input": "calBirthDate",
+    "_data_": null,
+    "_date_": [
+        10,
+        5,
+        2025
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s365f88d68c34e3791799ae67187c56c",
+    "_startG": [
+        0,
+        5,
+        2025
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "advview": "default",
+    "calendaricon": "calendericon.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        10,
+        5,
+        2025,
+        17,
+        53,
+        18
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 10,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        5,
+        2025
+    ],
+    "entereddate": [
+        10,
+        5,
+        2025,
+        17,
+        53,
+        18
+    ],
+    "format": "dd/MM/yyyy",
+    "formatteddate": "10/05/2025",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 17,
+    "id": "calBirthDate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h98bf3efe913441d874ef0e9e370d017",
+    "minutes": 53,
+    "month": 5,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2025",
+    "parent": "flxBirthDay",
+    "pf": "frmRegister",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 18,
+    "selectdate": "//2025",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2025
+}

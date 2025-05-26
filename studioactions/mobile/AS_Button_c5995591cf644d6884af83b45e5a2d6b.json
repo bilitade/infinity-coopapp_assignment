@@ -8,17 +8,15 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__ide_onClick_d84440b8cefe4a45896ef6c722dcf176",
-            "type": "NAVIGATE_TO_FORM",
-            "formId": "frmHome",
-            "friendlyName": "frmHome",
-            "formKUID": "aa497a3d84844418a43e75571242531c",
-            "projectName": "CoopApp",
-            "mappings": {},
-            "mappingsOrder": [],
-            "enableMappingEditor": true,
-            "package": "dashboard",
-            "isCustomInput": false
+            "id": "INVOKE_FUNCTION__aea4d1d44815447db20f8355b447b41d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCompelete",
+            "display": "onCompelete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

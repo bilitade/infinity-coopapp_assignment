@@ -1,0 +1,69 @@
+{
+    "keys": [
+        "I18N.frmRegister.LblAlreadyHaveAccount",
+        "I18n.LblEmail",
+        "I18n.LblPassword",
+        "I18n.frmIntro.BtnLetsStart",
+        "I18n.frmIntro.LblWelcome",
+        "I18n.frmLogin.BtnLogin",
+        "I18n.frmLogin.LblForgotPassword",
+        "I18n.frmLogin.LblLogin",
+        "I18n.frmLogin.LblNoAccount",
+        "I18n.frmRegister.BtnRegister",
+        "I18n.frmRegister.LblConfirmPassword",
+        "I18n.frmRegister.LblEmail",
+        "I18n.frmRegister.LblFullName",
+        "I18n.frmRegister.LblPassword",
+        "I18n.frmRegister.LblRegister"
+    ],
+    "locales": {
+        "am_ET": {
+            "country": "",
+            "i18nStrings": {},
+            "isCustomLocale": true,
+            "isSelected": false,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "en_NT": {
+            "country": "",
+            "i18nStrings": {},
+            "isCustomLocale": true,
+            "isSelected": false,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "om_ET": {
+            "country": "",
+            "i18nStrings": {},
+            "isCustomLocale": true,
+            "isSelected": false,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "oro_ET": {
+            "country": "",
+            "i18nStrings": {},
+            "isCustomLocale": true,
+            "isSelected": false,
+            "language": "",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

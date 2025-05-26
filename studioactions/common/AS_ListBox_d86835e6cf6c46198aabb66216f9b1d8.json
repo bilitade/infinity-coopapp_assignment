@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_fec05d87e7094339a87e6a5d2454218c",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "var localeMap = {\n    \"langEn\": \"en_NT\",\n    \"langAm\": \"am_ET\",\n    \"langOro\": \"oro_ET\"\n};\n\nvar selectedKey = this.view.lstLang.selectedKey;\nvar locale = localeMap[selectedKey];\n\nif (locale) {\n    kony.i18n.setCurrentLocaleAsync(\n        locale,\n        function() {\n            var currentForm = kony.application.getCurrentForm();\n            var navigation = new kony.mvc.Navigation(currentForm.id);\n            navigation.navigate();\n        },\n        function(error) {\n            alert(\"Failed to change language: \" + JSON.stringify(error));\n        }\n    );\n} else {\n    alert(\"Selected language is not supported.\");\n}\n",
+            "codeSnippet": "var localeMap = {\n    \"langEn\": \"en_US\",\n    \"langAm\": \"am_ET\",\n    \"langOro\": \"om_ET\"\n};\n\nvar selectedKey = this.view.lstLang.selectedKey;\n\nif (!selectedKey || !localeMap[selectedKey]) {\n    alert(\"Please select a supported language.\");\n    return;\n}\n\nvar locale = localeMap[selectedKey];\n\nkony.i18n.setCurrentLocaleAsync(\n    locale,\n    function() {\n        var currentForm = kony.application.getCurrentForm();\n        // Alert the current form (just show ID to avoid stringify issues)\n        alert(\"Current form is: \" + currentForm.id);\n\n        alert(\"Locale set to \" + locale + \".\");\n    },\n    function() {\n        alert(\"Failed to set locale to \" + locale + \".\");\n    }\n);\n",
             "parentId": null
         }]
     }

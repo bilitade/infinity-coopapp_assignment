@@ -10,7 +10,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_b755afc739f44eb492c949129ce2e4dd",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "kony.application.setApplicationProperties({\n    \"statusBarColor\": \"00adef00\",\n    \"statusBarHidden\": false,\n    \"navigationBarColor\" : \"00adef00\",\n  \n   \n});\t",
+            "codeSnippet": "kony.application.setApplicationProperties({\n    \"statusBarColor\": \"00adef00\",\n    \"statusBarHidden\": false,\n    \"navigationBarColor\" : \"00adef00\",\n  \n   \n});\t\n\n\n",
             "parentId": null
         }]
     }

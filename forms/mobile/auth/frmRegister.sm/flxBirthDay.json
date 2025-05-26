@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "70%"
+        "value": "65dp"
     },
     "_left_": {
         "type": "string",
-        "value": "19dp"
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -25,46 +25,30 @@
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50.00%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "lblPersonalInfo",
-        "txtFullName",
-        "txtEmail",
-        "flxGender",
-        "flxBirthDay",
-        "txtPhoneNum",
-        "txtAddress",
-        "lstNationality",
-        "btnNext",
-        "btnAlreadyHaveAccount"
+        "lblBirthDate",
+        "calBirthDate"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxPersonalInfo",
+    "id": "flxBirthDay",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e4b1126f57484a48a4bcb6507c6ddc6d",
+    "kuid": "c70b92db44b14db59f9a9d6700a77f10",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxRegister",
+    "parent": "flxPersonalInfo",
     "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

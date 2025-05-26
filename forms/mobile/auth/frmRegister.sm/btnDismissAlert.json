@@ -3,7 +3,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "32dp"
+        "value": "24dp"
     },
     "_margin_": [
         6,
@@ -19,31 +19,30 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
-    "_skin_": "sfb74ce5c5af456ab017a49d8567b7d9",
-    "_text_": "Next",
+    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
+    "_text_": "X",
     "_top_": {
         "type": "string",
-        "value": "3.5987956001443866%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "60dp"
+        "value": "23dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
-    "id": "btnNext",
-    "ide_onClick": "AS_Button_i29d8fe369e945e191d280ad5c1ad14e",
+    "id": "btnDismissAlert",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ee3caadb18b14f2986ed94f270d1f375",
+    "kuid": "h93e52a982f1407d90d51ae9fbc0f60a",
     "name": "kony.ui.Button",
-    "parent": "flxPersonalInfo",
+    "parent": "flexAlert",
     "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

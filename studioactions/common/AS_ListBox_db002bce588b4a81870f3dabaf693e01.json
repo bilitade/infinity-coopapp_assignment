@@ -1,0 +1,27 @@
+{
+    "AS_ListBox_db002bce588b4a81870f3dabaf693e01": {
+        "id": "AS_ListBox_db002bce588b4a81870f3dabaf693e01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "bd70f79a915e45738637f621212c308a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__cbd7ae9cd89848bcbc9f217ad28b5c2a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeLang",
+            "display": "changeLang",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

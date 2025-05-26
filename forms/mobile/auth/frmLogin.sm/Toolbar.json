@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "7.18%"
     },
     "_margin_": [
         0,
@@ -20,10 +20,6 @@
         0
     ],
     "_percent_": true,
-    "_right_": {
-        "type": "string",
-        "value": "0"
-    },
     "_skin_": "s23f26b31dc441d19c8c3188f8ba5810",
     "_top_": {
         "type": "string",
@@ -31,20 +27,24 @@
     },
     "_width_": {
         "type": "string",
-        "value": "414dp"
+        "value": "100.93%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 0,
     "data": {},
     "id": "Toolbar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d34ed1e6370745e59535cf8b1dbff07c",
+    "kuid": "h1de3d79eb8a4e069d3a083f604da030",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "frmIntroHome",
-    "pf": "frmIntroHome",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

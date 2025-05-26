@@ -39,7 +39,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxLogin"
+        "flxLogin",
+        "Toolbar"
     ],
     "containerweight": 100,
     "controllerInfo": {

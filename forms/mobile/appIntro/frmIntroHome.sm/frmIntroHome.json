@@ -39,9 +39,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "Toolbar",
         "flxIntro",
-        "imgInfinityLogo"
+        "imgInfinityLogo",
+        "Toolbar"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -50,7 +50,7 @@
             "name": "frmIntroHomeController"
         }
     },
-    "currentLocale": "oro_ET",
+    "currentLocale": "en_US",
     "desktopweb": {
         "needAppMenu": false
     },
@@ -58,7 +58,9 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "enablescrolling": false,
+    "friendlyName": "frmIntroHome",
     "id": "frmIntroHome",
+    "ide_preShow": "AS_Form_fb65ea3607444ff3bcab246374d1393f",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

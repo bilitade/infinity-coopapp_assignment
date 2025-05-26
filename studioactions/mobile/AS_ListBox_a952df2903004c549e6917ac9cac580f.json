@@ -1,6 +1,6 @@
 {
-    "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7": {
-        "id": "AS_Button_df2f7f3ba1d645d7997a367ed57b69b7",
+    "AS_ListBox_a952df2903004c549e6917ac9cac580f": {
+        "id": "AS_ListBox_a952df2903004c549e6917ac9cac580f",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -8,12 +8,11 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION__j58f0797e5134bc99ef7792131cd274d",
+            "id": "INVOKE_FUNCTION__ide_onSelection_c12470ca520a4e74b313975345d099a1",
             "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "changeTheme",
-            "display": "changeTheme",
+            "sequenceKUID": "changeLang",
+            "display": "changeLang",
             "inputparams": [],
-            "parentId": null,
             "callbackType": null,
             "disabled": null,
             "source": "controller"

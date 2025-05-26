@@ -25,7 +25,7 @@
     "_text_": "Already have Account",
     "_top_": {
         "type": "string",
-        "value": "6.095286328752865%"
+        "value": "3.5987956001443866%"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,7 @@
         "focusSkin": "s1c85a5694fc4df9b9d3de733c2da4c1"
     },
     "displaytext": true,
-    "id": "alreadyHaveActBtn",
+    "id": "btnAlreadyHaveAccount",
     "ide_onClick": "AS_Button_j39a24b1511f4df8a7247ce8159d78ca",
     "info": null,
     "iscustomlayout": false,
@@ -53,6 +53,5 @@
     "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "texti18n": "I18N.frmRegister.LblAlreadyHaveAccount",
     "wType": "Button"
 }

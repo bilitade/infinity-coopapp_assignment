@@ -22,7 +22,7 @@
     "_src_": "applogolight4x.png",
     "_top_": {
         "type": "string",
-        "value": "77dp"
+        "value": "50dp"
     },
     "_width_": {
         "type": "string",
@@ -31,7 +31,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "49.99%"
     },
     "containerweight": 100,
     "id": "imgAppLogo",
