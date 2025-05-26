@@ -40,7 +40,8 @@
     "canUpdateUI": true,
     "children": [
         "flxLogin",
-        "Toolbar"
+        "Toolbar",
+        "flxModal"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -58,6 +59,7 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmLogin",
     "id": "frmLogin",
+    "ide_preShow": "AS_Form_f7bc7be7ba6b4dc1896ebbd14615e7c9",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

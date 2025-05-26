@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
+    "_text_": "X",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "id": "btnDismissModal",
+    "ide_onClick": "AS_Button_edc5f84577a646c3bd48a72cfa825c1b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h97ecda6d6514e16a5821de1f7ff5c43",
+    "name": "kony.ui.Button",
+    "parent": "flxModalCard",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

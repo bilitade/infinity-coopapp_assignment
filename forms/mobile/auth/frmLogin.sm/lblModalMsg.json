@@ -2,12 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
         "type": "string",
-        "value": "0.93%"
+        "value": "60%"
     },
     "_margin_": [
         1,
@@ -16,16 +12,24 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        5,
+        5,
+        5,
+        5
     ],
-    "_skin_": "s1690b65d8e24e17ae1a79837c5d1d96",
-    "_text_": "Remember me",
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_skin_": "s13c4917086b4e7a88fc50afc6a4e65c",
+    "_text_": "Invalid Credential ",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_wrapping_": 2,
     "android": {
@@ -35,13 +39,17 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "centery": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "rememberMe",
+    "contentalignment": 5,
+    "id": "lblModalMsg",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +63,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "je651532adc9477da11d1ae20cca6d56",
+    "kuid": "h2dca62ef6b74619bd86abd1d7a69a88",
     "name": "kony.ui.Label",
-    "parent": "flxRememberMe",
+    "paddinginpixel": false,
+    "parent": "flxModalCard",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

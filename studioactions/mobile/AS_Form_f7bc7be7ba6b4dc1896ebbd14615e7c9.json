@@ -1,6 +1,6 @@
 {
-    "AS_Button_c0ac5587a60d4dec876ac04eacb385fd": {
-        "id": "AS_Button_c0ac5587a60d4dec876ac04eacb385fd",
+    "AS_Form_f7bc7be7ba6b4dc1896ebbd14615e7c9": {
+        "id": "AS_Form_f7bc7be7ba6b4dc1896ebbd14615e7c9",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -14,11 +14,13 @@
         },
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION__e4c08aa4a76a488198cf86bcf260063d",
+            "id": "INVOKE_FUNCTION__d7b3c8fb5bc74df38c83a57516848c50",
             "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "onLogin",
-            "display": "onLogin",
+            "sequenceKUID": "onPreshow",
+            "display": "onPreshow",
             "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
             "disabled": null,
             "source": "controller"
         }]

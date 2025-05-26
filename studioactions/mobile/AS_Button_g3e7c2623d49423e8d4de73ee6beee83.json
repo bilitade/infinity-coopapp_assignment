@@ -1,0 +1,20 @@
+{
+    "AS_Button_g3e7c2623d49423e8d4de73ee6beee83": {
+        "id": "AS_Button_g3e7c2623d49423e8d4de73ee6beee83",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f43fe64dd4564e30830feecd0e466e8c",
+            "type": "INVOKE_FUNCTION",
+            "display": "dismissAlert",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -36,7 +36,7 @@
         "value": "50.00%"
     },
     "containerweight": 100,
-    "id": "remembermeSwitch",
+    "id": "swRememberMe",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
