@@ -39,7 +39,7 @@
         "value": "50%"
     },
     "children": [
-        "searchBox"
+        "txtSearch"
     ],
     "clipbounds": false,
     "containerweight": 100,

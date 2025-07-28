@@ -53,7 +53,7 @@
     "kuid": "f6ec2817a403491eaca9611256800892",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "menusContainer",
+    "parent": "flxMenuBtn",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

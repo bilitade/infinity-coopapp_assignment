@@ -46,7 +46,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "focusskin": "s9f0c6b8da304775889a726dd45f2036",
-    "id": "searchBox",
+    "id": "txtSearch",
     "ide_onTextChange": "AS_TextField_j518d98b78474e2981ec968b3d22ff5d",
     "info": null,
     "iscustomlayout": false,

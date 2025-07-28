@@ -4,14 +4,13 @@
 define(function() {
   return {
     constructor: function(baseConfig, layoutConfig, pspConfig) {
-      // Initialization if needed
+   
     },
 
-    // Logic for getters/setters of custom properties
+
     initGettersSetters: function() {},
 
     preshow: function() {
-      // Get localized strings
       var yourBalanceLocale = kony.i18n.getLocalizedString("I18n.AccountCard.lblYourBalance");
       var currencyLocale = kony.i18n.getLocalizedString("I18n.AccounCard.lblCurrency");
       var loanAccLocale = kony.i18n.getLocalizedString("I18n.AccountCard.lblLoan");
@@ -19,7 +18,7 @@ define(function() {
       var currentAccLocale = kony.i18n.getLocalizedString("I18n.AccountCard.lblCurrent");
       var creditAccLocale = kony.i18n.getLocalizedString("I18n.AccountCard.lblCredit");
 
-      // Map data keys to component IDs in the segment row template
+  
       this.view.segAccount.widgetDataMap = {
         cardImage: "cardImage",
         customerName: "customerName",
@@ -29,8 +28,9 @@ define(function() {
         currency: "currency",       
         accountType: "accountType" 
       };
+      
 
-      // Segment data
+ 
       var accountData = [
         {
           cardImage: "cardcaynblue3x.png",
@@ -42,7 +42,7 @@ define(function() {
           accountType: creditAccLocale
         },
         {
-          cardImage: "cardcaynblue3x.png",
+          cardImage: "cardredish3x.png",
           customerName: "Bilisuma Tadesse",
           accountNumber: "987654321",
           balanceLabel: yourBalanceLocale,
@@ -51,7 +51,7 @@ define(function() {
           accountType: currentAccLocale
         },
         {
-          cardImage: "cardcaynblue3x.png",
+          cardImage: "cardorange3x.png",
           customerName: "Bilisuma Tadesse",
           accountNumber: "111222333",
           balanceLabel: yourBalanceLocale,

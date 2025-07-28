@@ -35,7 +35,9 @@
         "value": "50%"
     },
     "containerweight": 0,
-    "data": {},
+    "data": {
+        "src": "icon_sun_light.png"
+    },
     "id": "Toolbar",
     "info": null,
     "iscustomlayout": false,

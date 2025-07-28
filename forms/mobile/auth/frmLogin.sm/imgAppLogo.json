@@ -31,7 +31,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "49.99%"
+        "value": "50.01%"
     },
     "containerweight": 100,
     "id": "imgAppLogo",

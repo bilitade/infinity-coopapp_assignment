@@ -3,7 +3,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "60%"
+        "value": "92.00%"
     },
     "_margin_": [
         1,
@@ -25,11 +25,11 @@
     "_text_": "All Fields Are Required ",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-19dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "91.72%"
     },
     "_wrapping_": 2,
     "android": {
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "46.58%"
     },
     "containerweight": 100,
     "contentalignment": 4,

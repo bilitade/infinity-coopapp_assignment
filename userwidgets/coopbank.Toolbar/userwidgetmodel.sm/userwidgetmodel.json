@@ -39,6 +39,10 @@
     "device": "Pixel3",
     "displayorientation": 3,
     "enabledforidletimeout": false,
+    "globalUserWidgetRefs": [
+        "uf37269641ae431da3c7ac4832059d09",
+        "ufb246897d394e35ab61e111587d79be"
+    ],
     "id": "userwidgetmodel",
     "info": null,
     "initdone": false,

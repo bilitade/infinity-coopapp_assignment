@@ -46,7 +46,7 @@
     },
     "children": [
         "AccountCard",
-        "menusContainer"
+        "flxMenuBtn"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -1,19 +1,20 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "900dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "-31dp"
     },
     "_margin_": [
-        6,
-        6,
-        6,
-        6
+        0,
+        0,
+        0,
+        0
     ],
     "_padding_": [
         0,
@@ -21,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s434554dfd4548ce9edc79db465111e3",
-    "_text_": "Sign Out",
+    "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
+    "_src_": "infinitybg.png",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "700dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -41,19 +42,20 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 5,
-    "displaytext": true,
-    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
-    "id": "signoutBtn",
-    "ide_onClick": "AS_Button_a4c42f6de75e44ca94825d874cb5c32e",
+    "id": "imgInfinityLogo",
+    "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b2c6a4fa384d4eac93d69b2fb3c8c1c8",
-    "name": "kony.ui.Button",
-    "parent": "fscProfile",
-    "pf": "frmProfile",
+    "kuid": "e493182f63314d44893eaf087b30c4d5",
+    "name": "kony.ui.Image2",
+    "parent": "frmRegister",
+    "pf": "frmRegister",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
 }

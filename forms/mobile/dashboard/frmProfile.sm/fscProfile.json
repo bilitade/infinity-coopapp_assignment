@@ -45,8 +45,8 @@
         "value": "50%"
     },
     "children": [
-        "profileLabel",
-        "signoutBtn"
+        "lblProifle",
+        "btnSignout"
     ],
     "clipbounds": false,
     "containerweight": 100,

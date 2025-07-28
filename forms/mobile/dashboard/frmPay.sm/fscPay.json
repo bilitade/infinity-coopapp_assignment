@@ -45,7 +45,7 @@
         "value": "50%"
     },
     "children": [
-        "payLabel"
+        "lblPay"
     ],
     "clipbounds": false,
     "containerweight": 100,

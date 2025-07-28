@@ -1,19 +1,20 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "32dp"
+        "value": "900dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-226.51%"
+        "value": "-31dp"
     },
     "_margin_": [
-        6,
-        6,
-        6,
-        6
+        0,
+        0,
+        0,
+        0
     ],
     "_padding_": [
         0,
@@ -21,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
-    "_text_": "",
+    "_skin_": "s24006c509c749369c5f1bbb5bc41e9c",
+    "_src_": "infinitybg.png",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "32dp"
+        "value": "700dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -41,18 +42,20 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 5,
-    "displaytext": true,
-    "focusskin": "s7984871127c45fd9eafa511324533b6",
-    "id": "btnNotification",
+    "id": "imgInfinityLogo",
+    "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b48196cd8cd7404285e1b468e7b109ac",
-    "name": "kony.ui.Button",
-    "parent": "flxNotification",
-    "pf": "userwidgetmodel",
+    "kuid": "cb9e6fcccd6b4f63a38ca18471990310",
+    "name": "kony.ui.Image2",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button"
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
 }

@@ -18,7 +18,7 @@
         0
     ],
     "_skin_": "sbc008835dd448b48347d9e44b06bdb0",
-    "_text_": "Pay",
+    "_text_": "Profile",
     "_top_": {
         "type": "string",
         "value": "0"
@@ -41,7 +41,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "payLabel",
+    "id": "lblProifle",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e2f1dbe3538c460684abf2faf1079da1",
+    "kuid": "cda44d94b5dc4768b96449c4c9336950",
     "name": "kony.ui.Label",
-    "parent": "fscPay",
-    "pf": "frmPay",
+    "parent": "fscProfile",
+    "pf": "frmProfile",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

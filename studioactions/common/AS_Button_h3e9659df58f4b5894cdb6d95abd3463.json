@@ -13,10 +13,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_d90c0aaa5be54f1e9ab41dcfcff6d3ba",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "\n    var currentTheme = kony.theme.getCurrentTheme();\n    var newTheme = (currentTheme === \"lightTheme\") ? \"darkTheme\" : \"lightTheme\";\n\n    kony.theme.setCurrentTheme(newTheme,\n        function() {\n            kony.print(\"Theme successfully changed to \" + newTheme);\n        },\n        function() {\n            kony.print(\"Failed to change theme.\");\n        }\n    );\n\n",
-            "parentId": null
+            "id": "INVOKE_FUNCTION__cc484f9459d44f1f96ee90e624012b2f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeTheme",
+            "display": "changeTheme",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

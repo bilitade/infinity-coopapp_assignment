@@ -41,7 +41,8 @@
     "children": [
         "flxLogin",
         "Toolbar",
-        "flxModal"
+        "flxModal",
+        "imgInfinityLogo"
     ],
     "containerweight": 100,
     "controllerInfo": {

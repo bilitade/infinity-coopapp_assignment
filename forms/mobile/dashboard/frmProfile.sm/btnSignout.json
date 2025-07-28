@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "32dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-226.51%"
+        "value": "0"
     },
     "_margin_": [
         6,
@@ -21,15 +21,15 @@
         0,
         0
     ],
-    "_skin_": "s2e9db0b4d764058a4c37de3afd1db0d",
-    "_text_": "",
+    "_skin_": "s434554dfd4548ce9edc79db465111e3",
+    "_text_": "Sign Out",
     "_top_": {
         "type": "string",
         "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "32dp"
+        "value": "300dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -43,15 +43,16 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7984871127c45fd9eafa511324533b6",
-    "id": "btnNotification",
+    "focusskin": "s1c85a5694fc4df9b9d3de733c2da4c1",
+    "id": "btnSignout",
+    "ide_onClick": "AS_Button_a4c42f6de75e44ca94825d874cb5c32e",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b48196cd8cd7404285e1b468e7b109ac",
+    "kuid": "b2c6a4fa384d4eac93d69b2fb3c8c1c8",
     "name": "kony.ui.Button",
-    "parent": "flxNotification",
-    "pf": "userwidgetmodel",
+    "parent": "fscProfile",
+    "pf": "frmProfile",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button"

@@ -17,10 +17,47 @@
         },
         "properties": {
             "custom": [],
-            "passthrough": []
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "eb391cf8de1b4512afa814e8a1395918",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "src",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "imgMode",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "if3c06853da64a81855ed27253558d53"
+                }
+            ]
         },
         "widgets": {
-            "expose": [],
+            "expose": [
+                {
+                    "kuid": "b6ee736ee21443688c6a4d381149a5bd",
+                    "propertyKey": "imgMode",
+                    "srcWgtKUID": "if3c06853da64a81855ed27253558d53"
+                }
+            ],
             "passthrough": []
         }
     },

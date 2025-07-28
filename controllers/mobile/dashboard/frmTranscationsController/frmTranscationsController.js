@@ -39,7 +39,7 @@ define({
       this.fullData = this.view.segTransaction.data;
     }
 
-    var searchText = this.view.searchBox.text.toLowerCase().trim();
+    var searchText = this.view.txtSearch.text.toLowerCase().trim();
 
     if (searchText === "") {
       this.view.segTransaction.setData(this.fullData);

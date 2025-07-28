@@ -37,7 +37,7 @@
         "value": "50.00%"
     },
     "children": [
-        "appsLabel"
+        "lblApps"
     ],
     "clipbounds": false,
     "containerweight": 100,
